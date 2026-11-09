@@ -12,7 +12,7 @@ Both are clustered with Ward agglomerative clustering and K-Means.
 ## Key facts
 - Study period: 1 Jan 2021 to 1 Jan 2025 (end date exclusive)
 - Ticker list: Wikipedia, retrieved 2026-11-08 (503 shares)
-- Price data: yfinance 0.2.66, pandas 2.2.3 (daily Close, Adj Close, Volume, plus ^GSPC)
+- Price data: yfinance 0.2.66, pandas 2.2.3, numpy 2.4.6 (versions printed in the notebook; scipy and scikit-learn versions are printed in the clustering section). Daily Close, Adj Close, Volume, plus ^GSPC
 - Observation date for RFM: 2024-12-31 (last common trading date)
 - Valid shares after validation: 486 (17 excluded, see `data/processed/exclusion_log.csv`)
 - Ticker list was retrieved on 2026-11-08 (cached copy in `data/raw/`) and re-fetched on 2026-11-09 (503 shares again)
@@ -26,7 +26,7 @@ Both are clustered with Ward agglomerative clustering and K-Means.
 | `outputs/` | Charts and dendrograms |
 
 ## How to run
-1. Open `CW1.ipynb` in Google Colab (Runtime > Run all).
+1. Open `CW1.ipynb` in Google Colab (Runtime > Run all). All result files are written to `data/processed/` and `outputs/` by the notebook.
 2. If Yahoo Finance is unavailable, use the cached-data cell in section 1.1 (it loads the files in `data/raw/` from this repository).
 
 ## Use of generative AI
