@@ -1,0 +1,18 @@
+Ticker,Reason,Action
+APP,"Incomplete history (935 of 1005 sessions, first valid date 2021-04-15)",Excluded
+CEG,"Incomplete history (742 of 1005 sessions, first valid date 2022-01-19)",Excluded
+COIN,"Incomplete history (936 of 1005 sessions, first valid date 2021-04-14)",Excluded
+EXE,"Incomplete history (979 of 1005 sessions, first valid date 2021-02-10)",Excluded
+FDXF,No price data for study period,Excluded
+FERG,Zero-volume days (27),Excluded
+GEHC,"Incomplete history (513 of 1005 sessions, first valid date 2022-12-15)",Excluded
+GEV,"Incomplete history (193 of 1005 sessions, first valid date 2024-03-27)",Excluded
+HONA,No price data for study period,Excluded
+HOOD,"Incomplete history (862 of 1005 sessions, first valid date 2021-07-29)",Excluded
+Q,No price data for study period,Excluded
+RDDT,"Incomplete history (197 of 1005 sessions, first valid date 2024-03-21)",Excluded
+SNDK,No price data for study period,Excluded
+SOLV,"Incomplete history (194 of 1005 sessions, first valid date 2024-03-26)",Excluded
+SW,Zero-volume days (424),Excluded
+VLTO,"Incomplete history (313 of 1005 sessions, first valid date 2023-10-04)",Excluded
+VYLR,No price data for study period,Excluded

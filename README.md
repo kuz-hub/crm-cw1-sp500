@@ -15,13 +15,14 @@ Both are clustered with Ward agglomerative clustering and K-Means.
 - Price data: yfinance 0.2.66, pandas 2.2.3 (daily Close, Adj Close, Volume, plus ^GSPC)
 - Observation date for RFM: 2024-12-31 (last common trading date)
 - Valid shares after validation: 486 (17 excluded, see `data/processed/exclusion_log.csv`)
+- Ticker list was retrieved on 2026-11-08 (cached copy in `data/raw/`) and re-fetched on 2026-11-09 (503 shares again)
 
 ## Repository layout
 | Path | Contents |
 |---|---|
 | `CW1.ipynb` | Main notebook (open in Google Colab with the badge at the top) |
 | `data/raw/` | Unedited downloads: tickers, adj_close, close, volume (cached snapshots) |
-| `data/processed/` | exclusion_log.csv, valid_stocks.csv, feature_table.csv, cluster assignments |
+| `data/processed/` | exclusion_log.csv, feature_table.csv, cluster_assignments.csv, cluster profiles |
 | `outputs/` | Charts and dendrograms |
 
 ## How to run
