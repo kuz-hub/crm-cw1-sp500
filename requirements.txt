@@ -1,0 +1,7 @@
+pandas==2.2.3
+numpy
+yfinance==0.2.66
+matplotlib
+seaborn
+scipy
+scikit-learn
