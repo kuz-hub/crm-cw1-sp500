@@ -20,13 +20,13 @@ Both are clustered with Ward agglomerative clustering and K-Means.
 ## Repository layout
 | Path | Contents |
 |---|---|
-| `CW1.ipynb` | Main notebook (open in Google Colab with the badge at the top) |
+| `CRM_CW1.ipynb` | Main notebook (open in Google Colab with the badge at the top) |
 | `data/raw/` | Unedited downloads: tickers, adj_close, close, volume (cached snapshots) |
 | `data/processed/` | exclusion_log.csv, feature_table.csv, cluster_assignments.csv, cluster profiles |
 | `outputs/` | Charts and dendrograms |
 
 ## How to run
-1. Open `CW1.ipynb` in Google Colab (Runtime > Run all). All result files are written to `data/processed/` and `outputs/` by the notebook.
+1. Open `CRM_CW1.ipynb` in Google Colab (Runtime > Run all). All result files are written to `data/processed/` and `outputs/` by the notebook.
 2. If Yahoo Finance is unavailable, use the cached-data cell in section 1.1 (it loads the files in `data/raw/` from this repository).
 
 ## Use of generative AI
