@@ -30,4 +30,4 @@ Both are clustered with Ward agglomerative clustering and K-Means.
 2. If Yahoo Finance is unavailable, use the cached-data cell in section 1.1 (it loads the files in `data/raw/` from this repository).
 
 ## Use of generative AI
-Generative AI (Claude) was used for explanation, planning, code support and drafting, as permitted by the module leader. All results were run and checked by the author.
+Generative AI (Claude) was used for explanation, planning and code support. All results were run and checked by the author.
