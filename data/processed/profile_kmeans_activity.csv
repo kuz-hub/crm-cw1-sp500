@@ -1,4 +1,4 @@
-KMeans_Activity,Recency,Frequency,Monetary_USD_bn,Median_Monetary_USD_bn,Shares
+KMeans_Activity,Recency,Frequency,Monetary_bn,Median_Monetary_bn,Shares
 1,13.26,2.37,15.18,13.34,212
 2,13.94,4.55,15.02,12.83,122
 3,66.02,1.67,56.18,21.24,61

@@ -1,18 +1,18 @@
 Ticker,Action,Reason,Days
-APP,Excluded,Incomplete history (935 of 1005 days),935
-COIN,Excluded,Incomplete history (936 of 1005 days),936
-CEG,Excluded,Incomplete history (742 of 1005 days),742
-EXE,Excluded,Incomplete history (979 of 1005 days),979
-FDXF,Excluded,No price data in the study period,0
+APP,Excluded,"Incomplete history, starts 2021-04-15",935
+COIN,Excluded,"Incomplete history, starts 2021-04-14",936
+CEG,Excluded,"Incomplete history, starts 2022-01-19",742
+EXE,Excluded,"Incomplete history, starts 2021-02-10",979
+FDXF,Excluded,No price data,0
 FERG,Excluded,Zero-volume days (27),1005
-GEHC,Excluded,Incomplete history (513 of 1005 days),513
-GEV,Excluded,Incomplete history (193 of 1005 days),193
-HONA,Excluded,No price data in the study period,0
-Q,Excluded,No price data in the study period,0
-RDDT,Excluded,Incomplete history (197 of 1005 days),197
-HOOD,Excluded,Incomplete history (862 of 1005 days),862
-SNDK,Excluded,No price data in the study period,0
+GEHC,Excluded,"Incomplete history, starts 2022-12-15",513
+GEV,Excluded,"Incomplete history, starts 2024-03-27",193
+HONA,Excluded,No price data,0
+Q,Excluded,No price data,0
+RDDT,Excluded,"Incomplete history, starts 2024-03-21",197
+HOOD,Excluded,"Incomplete history, starts 2021-07-29",862
+SNDK,Excluded,No price data,0
 SW,Excluded,Zero-volume days (424),1005
-SOLV,Excluded,Incomplete history (194 of 1005 days),194
-VLTO,Excluded,Incomplete history (313 of 1005 days),313
-VYLR,Excluded,No price data in the study period,0
+SOLV,Excluded,"Incomplete history, starts 2024-03-26",194
+VLTO,Excluded,"Incomplete history, starts 2023-10-04",313
+VYLR,Excluded,No price data,0

@@ -1,504 +1,504 @@
-Share_key,Security,GICS_sector,GICS_sub_industry,Inclusion_status,Inclusion_reason,Days_available
-MMM,3M,Industrials,Industrial Conglomerates,Included,Passed all validation rules,1005
-AOS,A. O. Smith,Industrials,Building Products,Included,Passed all validation rules,1005
-ABT,Abbott Laboratories,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-ABBV,AbbVie,Health Care,Biotechnology,Included,Passed all validation rules,1005
-ACN,Accenture,Information Technology,IT Consulting & Other Services,Included,Passed all validation rules,1005
-ADBE,Adobe Inc.,Information Technology,Application Software,Included,Passed all validation rules,1005
-AMD,Advanced Micro Devices,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Included,Passed all validation rules,1005
-AFL,Aflac,Financials,Life & Health Insurance,Included,Passed all validation rules,1005
-A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-APD,Air Products,Materials,Industrial Gases,Included,Passed all validation rules,1005
-ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,Included,Passed all validation rules,1005
-ALB,Albemarle Corporation,Materials,Specialty Chemicals,Included,Passed all validation rules,1005
-ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Included,Passed all validation rules,1005
-ALGN,Align Technology,Health Care,Health Care Supplies,Included,Passed all validation rules,1005
-ALLE,Allegion,Industrials,Building Products,Included,Passed all validation rules,1005
-LNT,Alliant Energy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-ALL,Allstate,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,Included,Passed all validation rules,1005
-GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Included,Passed all validation rules,1005
-MO,Altria,Consumer Staples,Tobacco,Included,Passed all validation rules,1005
-AMZN,Amazon,Consumer Discretionary,Broadline Retail,Included,Passed all validation rules,1005
-AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,Included,Passed all validation rules,1005
-AEE,Ameren,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-AEP,American Electric Power,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-AXP,American Express,Financials,Consumer Finance,Included,Passed all validation rules,1005
-AIG,American International Group,Financials,Multi-line Insurance,Included,Passed all validation rules,1005
-AMT,American Tower,Real Estate,Telecom Tower REITs,Included,Passed all validation rules,1005
-AWK,American Water Works,Utilities,Water Utilities,Included,Passed all validation rules,1005
-AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-AME,Ametek,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
-AMGN,Amgen,Health Care,Biotechnology,Included,Passed all validation rules,1005
-APH,Amphenol,Information Technology,Electronic Components,Included,Passed all validation rules,1005
-ADI,Analog Devices,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-AON,Aon plc,Financials,Insurance Brokers,Included,Passed all validation rules,1005
-APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-APO,Apollo Global Management,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Included,Passed all validation rules,1005
-APP,AppLovin,Communication Services,Advertising,Excluded,Incomplete history (935 of 1005 days),935
-APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,Included,Passed all validation rules,1005
-ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-ADM,Archer Daniels Midland,Consumer Staples,Agricultural Products & Services,Included,Passed all validation rules,1005
-ARES,Ares Management,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-ANET,Arista Networks,Information Technology,Communications Equipment,Included,Passed all validation rules,1005
-AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Included,Passed all validation rules,1005
-AIZ,Assurant,Financials,Multi-line Insurance,Included,Passed all validation rules,1005
-T,AT&T,Communication Services,Integrated Telecommunication Services,Included,Passed all validation rules,1005
-ATO,Atmos Energy,Utilities,Gas Utilities,Included,Passed all validation rules,1005
-ADSK,Autodesk,Information Technology,Application Software,Included,Passed all validation rules,1005
-ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Included,Passed all validation rules,1005
-AZO,AutoZone,Consumer Discretionary,Automotive Retail,Included,Passed all validation rules,1005
-AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,Included,Passed all validation rules,1005
-AXON,Axon Enterprise,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,Included,Passed all validation rules,1005
-BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Included,Passed all validation rules,1005
-BAC,Bank of America,Financials,Diversified Banks,Included,Passed all validation rules,1005
-BAX,Baxter International,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-BDX,Becton Dickinson,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,Included,Passed all validation rules,1005
-BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Included,Passed all validation rules,1005
-TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-BIIB,Biogen,Health Care,Biotechnology,Included,Passed all validation rules,1005
-BLK,BlackRock,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-BX,Blackstone Inc.,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-XYZ,"Block, Inc.",Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-BE,Bloom Energy,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
-BNY,BNY Mellon,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-BA,Boeing,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-BSX,Boston Scientific,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
-AVGO,Broadcom,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Included,Passed all validation rules,1005
-BRO,Brown & Brown,Financials,Insurance Brokers,Included,Passed all validation rules,1005
-BF-B,Brown–Forman,Consumer Staples,Distillers & Vintners,Included,Passed all validation rules,1005
-BG,Bunge Global,Consumer Staples,Agricultural Products & Services,Included,Passed all validation rules,1005
-BXP,"BXP, Inc.",Real Estate,Office REITs,Included,Passed all validation rules,1005
-CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,Included,Passed all validation rules,1005
-CDNS,Cadence Design Systems,Information Technology,Application Software,Included,Passed all validation rules,1005
-CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,Included,Passed all validation rules,1005
-COF,Capital One,Financials,Consumer Finance,Included,Passed all validation rules,1005
-CAH,Cardinal Health,Health Care,Health Care Distributors,Included,Passed all validation rules,1005
-CCL,Carnival Corporation,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-CARR,Carrier Global,Industrials,Building Products,Included,Passed all validation rules,1005
-CVNA,Carvana,Consumer Discretionary,Automotive Retail,Included,Passed all validation rules,1005
-CASY,Casey's,Consumer Staples,Food Retail,Included,Passed all validation rules,1005
-CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Included,Passed all validation rules,1005
-CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-CBRE,CBRE Group,Real Estate,Real Estate Services,Included,Passed all validation rules,1005
-CDW,CDW Corporation,Information Technology,Technology Distributors,Included,Passed all validation rules,1005
-COR,Cencora,Health Care,Health Care Distributors,Included,Passed all validation rules,1005
-CNC,Centene Corporation,Health Care,Managed Health Care,Included,Passed all validation rules,1005
-CNP,CenterPoint Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Included,Passed all validation rules,1005
-CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,Included,Passed all validation rules,1005
-CHTR,Charter Communications,Communication Services,Cable & Satellite,Included,Passed all validation rules,1005
-CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Included,Passed all validation rules,1005
-CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Included,Passed all validation rules,1005
-CB,Chubb Limited,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-CHD,Church & Dwight,Consumer Staples,Household Products,Included,Passed all validation rules,1005
-CIEN,Ciena,Information Technology,Communications Equipment,Included,Passed all validation rules,1005
-CI,Cigna,Health Care,Health Care Services,Included,Passed all validation rules,1005
-CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-CTAS,Cintas,Industrials,Diversified Support Services,Included,Passed all validation rules,1005
-CSCO,Cisco,Information Technology,Communications Equipment,Included,Passed all validation rules,1005
-C,Citigroup,Financials,Diversified Banks,Included,Passed all validation rules,1005
-CFG,Citizens Financial Group,Financials,Regional Banks,Included,Passed all validation rules,1005
-CLX,Clorox,Consumer Staples,Household Products,Included,Passed all validation rules,1005
-CME,CME Group,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-CMS,CMS Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Included,Passed all validation rules,1005
-CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Included,Passed all validation rules,1005
-COHR,Coherent Corp.,Information Technology,Electronic Components,Included,Passed all validation rules,1005
-COIN,Coinbase,Financials,Financial Exchanges & Data,Excluded,Incomplete history (936 of 1005 days),936
-CL,Colgate-Palmolive,Consumer Staples,Household Products,Included,Passed all validation rules,1005
-CMCSA,Comcast,Communication Services,Cable & Satellite,Included,Passed all validation rules,1005
-FIX,Comfort Systems USA,Industrials,Construction & Engineering,Included,Passed all validation rules,1005
-COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-ED,Consolidated Edison,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Included,Passed all validation rules,1005
-CEG,Constellation Energy,Utilities,Electric Utilities,Excluded,Incomplete history (742 of 1005 days),742
-COO,Cooper Companies (The),Health Care,Health Care Supplies,Included,Passed all validation rules,1005
-CPRT,Copart,Industrials,Diversified Support Services,Included,Passed all validation rules,1005
-GLW,Corning Inc.,Information Technology,Electronic Components,Included,Passed all validation rules,1005
-CPAY,Corpay,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-CSGP,CoStar Group,Real Estate,Real Estate Services,Included,Passed all validation rules,1005
-COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Included,Passed all validation rules,1005
-CRH,CRH plc,Materials,Construction Materials,Included,Passed all validation rules,1005
-CRWD,CrowdStrike,Information Technology,Systems Software,Included,Passed all validation rules,1005
-CCI,Crown Castle,Real Estate,Telecom Tower REITs,Included,Passed all validation rules,1005
-CSX,CSX Corporation,Industrials,Rail Transportation,Included,Passed all validation rules,1005
-CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,Included,Passed all validation rules,1005
-CVS,CVS Health,Health Care,Health Care Services,Included,Passed all validation rules,1005
-DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Included,Passed all validation rules,1005
-DDOG,Datadog,Information Technology,Application Software,Included,Passed all validation rules,1005
-DVA,DaVita,Health Care,Health Care Services,Included,Passed all validation rules,1005
-DECK,Deckers Brands,Consumer Discretionary,Footwear,Included,Passed all validation rules,1005
-DE,Deere & Company,Industrials,Agricultural & Farm Machinery,Included,Passed all validation rules,1005
-DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-DAL,Delta Air Lines,Industrials,Passenger Airlines,Included,Passed all validation rules,1005
-DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-DXCM,Dexcom,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-DLR,Digital Realty,Real Estate,Data Center REITs,Included,Passed all validation rules,1005
-DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Included,Passed all validation rules,1005
-DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Included,Passed all validation rules,1005
-D,Dominion Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-DPZ,Domino's,Consumer Discretionary,Restaurants,Included,Passed all validation rules,1005
-DASH,DoorDash,Consumer Discretionary,Specialized Consumer Services,Included,Passed all validation rules,1005
-DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-DOW,Dow Inc.,Materials,Commodity Chemicals,Included,Passed all validation rules,1005
-DHI,D. R. Horton,Consumer Discretionary,Homebuilding,Included,Passed all validation rules,1005
-DTE,DTE Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-DUK,Duke Energy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-DD,DuPont,Industrials,Industrial Conglomerates,Included,Passed all validation rules,1005
-ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
-EBAY,eBay Inc.,Consumer Discretionary,Broadline Retail,Included,Passed all validation rules,1005
-ECHO,EchoStar,Communication Services,Wireless Telecommunication Services,Included,Passed all validation rules,1005
-ECL,Ecolab,Materials,Specialty Chemicals,Included,Passed all validation rules,1005
-EIX,Edison International,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-EW,Edwards Lifesciences,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-ELV,Elevance Health,Health Care,Managed Health Care,Included,Passed all validation rules,1005
-EME,Emcor,Industrials,Construction & Engineering,Included,Passed all validation rules,1005
-EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
-ETR,Entergy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-EFX,Equifax,Industrials,Research & Consulting Services,Included,Passed all validation rules,1005
-EQIX,Equinix,Real Estate,Data Center REITs,Included,Passed all validation rules,1005
-ERIE,Erie Indemnity,Financials,Insurance Brokers,Included,Passed all validation rules,1005
-ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,Included,Passed all validation rules,1005
-EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Included,Passed all validation rules,1005
-EG,Everest Group,Financials,Reinsurance,Included,Passed all validation rules,1005
-EVRG,Evergy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-P,Everpure,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-ES,Eversource Energy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-EXC,Exelon,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,Excluded,Incomplete history (979 of 1005 days),979
-EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-EXPD,Expeditors International,Industrials,Air Freight & Logistics,Included,Passed all validation rules,1005
-EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Included,Passed all validation rules,1005
-XOM,ExxonMobil,Energy,Integrated Oil & Gas,Included,Passed all validation rules,1005
-FFIV,"F5, Inc.",Information Technology,Communications Equipment,Included,Passed all validation rules,1005
-FDS,FactSet,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-FICO,Fair Isaac,Information Technology,Application Software,Included,Passed all validation rules,1005
-FAST,Fastenal,Industrials,Trading Companies & Distributors,Included,Passed all validation rules,1005
-FRT,Federal Realty Investment Trust,Real Estate,Retail REITs,Included,Passed all validation rules,1005
-FDX,FedEx,Industrials,Air Freight & Logistics,Included,Passed all validation rules,1005
-FDXF,FedEx Freight,Industrials,Cargo Ground Transportation,Excluded,No price data in the study period,0
-FERG,Ferguson Enterprises,Industrials,Trading Companies & Distributors,Excluded,Zero-volume days (27),1005
-FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-FITB,Fifth Third Bancorp,Financials,Regional Banks,Included,Passed all validation rules,1005
-FSLR,First Solar,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-FE,FirstEnergy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-FISV,Fiserv,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-FLEX,Flex Ltd.,Information Technology,Electronic Manufacturing Services,Included,Passed all validation rules,1005
-F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,Included,Passed all validation rules,1005
-FTNT,Fortinet,Information Technology,Systems Software,Included,Passed all validation rules,1005
-FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,Included,Passed all validation rules,1005
-FOX,Fox Corporation (Class B),Communication Services,Broadcasting,Included,Passed all validation rules,1005
-BEN,Franklin Resources,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-FCX,Freeport-McMoRan,Materials,Copper,Included,Passed all validation rules,1005
-GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Included,Passed all validation rules,1005
-IT,Gartner,Information Technology,IT Consulting & Other Services,Included,Passed all validation rules,1005
-GE,GE Aerospace,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-GEHC,GE HealthCare,Health Care,Health Care Equipment,Excluded,Incomplete history (513 of 1005 days),513
-GEV,GE Vernova,Industrials,Heavy Electrical Equipment,Excluded,Incomplete history (193 of 1005 days),193
-GEN,Gen Digital,Information Technology,Systems Software,Included,Passed all validation rules,1005
-GNRC,Generac,Industrials,Heavy Electrical Equipment,Included,Passed all validation rules,1005
-GD,General Dynamics,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-GM,General Motors,Consumer Discretionary,Automobile Manufacturers,Included,Passed all validation rules,1005
-GPC,Genuine Parts Company,Consumer Discretionary,Distributors,Included,Passed all validation rules,1005
-GILD,Gilead Sciences,Health Care,Biotechnology,Included,Passed all validation rules,1005
-GPN,Global Payments,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-GL,Globe Life,Financials,Life & Health Insurance,Included,Passed all validation rules,1005
-GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure,Included,Passed all validation rules,1005
-GS,Goldman Sachs,Financials,Investment Banking & Brokerage,Included,Passed all validation rules,1005
-HAL,Halliburton,Energy,Oil & Gas Equipment & Services,Included,Passed all validation rules,1005
-HIG,Hartford (The),Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-HAS,Hasbro,Consumer Discretionary,Leisure Products,Included,Passed all validation rules,1005
-HCA,HCA Healthcare,Health Care,Health Care Facilities,Included,Passed all validation rules,1005
-DOC,Healthpeak Properties,Real Estate,Health Care REITs,Included,Passed all validation rules,1005
-HSIC,Henry Schein,Health Care,Health Care Distributors,Included,Passed all validation rules,1005
-HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Included,Passed all validation rules,1005
-HONA,Honeywell Aerospace,Industrials,Aerospace & Defense,Excluded,No price data in the study period,0
-HON,Honeywell Technologies,Industrials,Industrial Conglomerates,Included,Passed all validation rules,1005
-HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Included,Passed all validation rules,1005
-HWM,Howmet Aerospace,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-HUM,Humana,Health Care,Managed Health Care,Included,Passed all validation rules,1005
-HBAN,Huntington Bancshares,Financials,Regional Banks,Included,Passed all validation rules,1005
-HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-IBM,IBM,Information Technology,IT Consulting & Other Services,Included,Passed all validation rules,1005
-IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-IDXX,Idexx Laboratories,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-ILMN,"Illumina, Inc.",Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-INCY,Incyte,Health Care,Biotechnology,Included,Passed all validation rules,1005
-IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-PODD,Insulet Corporation,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-INTC,Intel,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-IBKR,Interactive Brokers,Financials,Investment Banking & Brokerage,Included,Passed all validation rules,1005
-ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,Included,Passed all validation rules,1005
-IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Included,Passed all validation rules,1005
-INTU,Intuit,Information Technology,Application Software,Included,Passed all validation rules,1005
-ISRG,Intuitive Surgical,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-IVZ,Invesco,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,Included,Passed all validation rules,1005
-IQV,IQVIA,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-IRM,Iron Mountain,Real Estate,Other Specialized REITs,Included,Passed all validation rules,1005
-JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,Included,Passed all validation rules,1005
-JBL,Jabil,Information Technology,Electronic Manufacturing Services,Included,Passed all validation rules,1005
-JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-J,Jacobs Solutions,Industrials,Construction & Engineering,Included,Passed all validation rules,1005
-JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
-JCI,Johnson Controls,Industrials,Building Products,Included,Passed all validation rules,1005
-JPM,JPMorgan Chase,Financials,Diversified Banks,Included,Passed all validation rules,1005
-KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Included,Passed all validation rules,1005
-KEY,KeyCorp,Financials,Regional Banks,Included,Passed all validation rules,1005
-KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,Included,Passed all validation rules,1005
-KMB,Kimberly-Clark,Consumer Staples,Household Products,Included,Passed all validation rules,1005
-KIM,Kimco Realty,Real Estate,Retail REITs,Included,Passed all validation rules,1005
-KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Included,Passed all validation rules,1005
-KKR,KKR & Co.,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Included,Passed all validation rules,1005
-KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-KR,Kroger,Consumer Staples,Food Retail,Included,Passed all validation rules,1005
-LHX,L3Harris,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-LH,Labcorp,Health Care,Health Care Services,Included,Passed all validation rules,1005
-LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Included,Passed all validation rules,1005
-LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Included,Passed all validation rules,1005
-LDOS,Leidos,Industrials,Diversified Support Services,Included,Passed all validation rules,1005
-LEN,Lennar,Consumer Discretionary,Homebuilding,Included,Passed all validation rules,1005
-LII,Lennox International,Industrials,Building Products,Included,Passed all validation rules,1005
-LLY,Lilly (Eli),Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
-LIN,Linde plc,Materials,Industrial Gases,Included,Passed all validation rules,1005
-LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Included,Passed all validation rules,1005
-LMT,Lockheed Martin,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-L,Loews Corporation,Financials,Multi-line Insurance,Included,Passed all validation rules,1005
-LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Included,Passed all validation rules,1005
-LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Included,Passed all validation rules,1005
-LITE,Lumentum,Information Technology,Communications Equipment,Included,Passed all validation rules,1005
-LYB,LyondellBasell,Materials,Specialty Chemicals,Included,Passed all validation rules,1005
-MTB,M&T Bank,Financials,Regional Banks,Included,Passed all validation rules,1005
-MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Included,Passed all validation rules,1005
-MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-MRSH,Marsh McLennan,Financials,Insurance Brokers,Included,Passed all validation rules,1005
-MLM,Martin Marietta Materials,Materials,Construction Materials,Included,Passed all validation rules,1005
-MRVL,Marvell Technology,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-MAS,Masco,Industrials,Building Products,Included,Passed all validation rules,1005
-MA,Mastercard,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-MCD,McDonald's,Consumer Discretionary,Restaurants,Included,Passed all validation rules,1005
-MCK,McKesson,Health Care,Health Care Distributors,Included,Passed all validation rules,1005
-MDT,Medtronic,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-MRK,Merck & Co.,Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
-META,Meta Platforms,Communication Services,Interactive Media & Services,Included,Passed all validation rules,1005
-MET,MetLife,Financials,Life & Health Insurance,Included,Passed all validation rules,1005
-MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,Included,Passed all validation rules,1005
-MCHP,Microchip Technology,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-MU,Micron Technology,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-MSFT,Microsoft,Information Technology,Systems Software,Included,Passed all validation rules,1005
-MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Included,Passed all validation rules,1005
-MRNA,Moderna,Health Care,Biotechnology,Included,Passed all validation rules,1005
-MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Included,Passed all validation rules,1005
-MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Included,Passed all validation rules,1005
-MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Included,Passed all validation rules,1005
-MSI,Motorola Solutions,Information Technology,Communications Equipment,Included,Passed all validation rules,1005
-MSCI,MSCI,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-NFLX,Netflix,Communication Services,Movies & Entertainment,Included,Passed all validation rules,1005
-NEM,Newmont,Materials,Gold,Included,Passed all validation rules,1005
-NWSA,News Corp (Class A),Communication Services,Publishing,Included,Passed all validation rules,1005
-NWS,News Corp (Class B),Communication Services,Publishing,Included,Passed all validation rules,1005
-NEE,NextEra Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Included,Passed all validation rules,1005
-NI,NiSource,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-NSC,Norfolk Southern,Industrials,Rail Transportation,Included,Passed all validation rules,1005
-NTRS,Northern Trust,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-NOC,Northrop Grumman,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Included,Passed all validation rules,1005
-NUE,Nucor,Materials,Steel,Included,Passed all validation rules,1005
-NVDA,Nvidia,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,Included,Passed all validation rules,1005
-NXPI,NXP Semiconductors,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-ORLY,O'Reilly Automotive,Consumer Discretionary,Automotive Retail,Included,Passed all validation rules,1005
-OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-OKTA,"Okta, Inc.",Information Technology,Application Software,Included,Passed all validation rules,1005
-ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Included,Passed all validation rules,1005
-OMC,Omnicom Group,Communication Services,Advertising,Included,Passed all validation rules,1005
-ON,ON Semiconductor,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-OKE,Oneok,Energy,Oil & Gas Storage & Transportation,Included,Passed all validation rules,1005
-ORCL,Oracle Corporation,Information Technology,Application Software,Included,Passed all validation rules,1005
-OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Included,Passed all validation rules,1005
-PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,Included,Passed all validation rules,1005
-PLTR,Palantir Technologies,Information Technology,Application Software,Included,Passed all validation rules,1005
-PANW,Palo Alto Networks,Information Technology,Systems Software,Included,Passed all validation rules,1005
-PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-PAYX,Paychex,Industrials,Human Resource & Employment Services,Included,Passed all validation rules,1005
-PYPL,PayPal,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Included,Passed all validation rules,1005
-PFE,Pfizer,Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
-PCG,PG&E Corporation,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-PM,Philip Morris International,Consumer Staples,Tobacco,Included,Passed all validation rules,1005
-PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Included,Passed all validation rules,1005
-PNW,Pinnacle West Capital,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-PNC,PNC Financial Services,Financials,Diversified Banks,Included,Passed all validation rules,1005
-PPG,PPG Industries,Materials,Specialty Chemicals,Included,Passed all validation rules,1005
-PPL,PPL Corporation,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-PFG,Principal Financial Group,Financials,Life & Health Insurance,Included,Passed all validation rules,1005
-PG,Procter & Gamble,Consumer Staples,Personal Care Products,Included,Passed all validation rules,1005
-PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-PLD,Prologis,Real Estate,Industrial REITs,Included,Passed all validation rules,1005
-PRU,Prudential Financial,Financials,Life & Health Insurance,Included,Passed all validation rules,1005
-PTC,PTC Inc.,Information Technology,Application Software,Included,Passed all validation rules,1005
-PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-PSA,Public Storage,Real Estate,Self-Storage REITs,Included,Passed all validation rules,1005
-PHM,PulteGroup,Consumer Discretionary,Homebuilding,Included,Passed all validation rules,1005
-Q,Qnity Electronics,Information Technology,Semiconductor Materials & Equipment,Excluded,No price data in the study period,0
-QCOM,Qualcomm,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-PWR,Quanta Services,Industrials,Construction & Engineering,Included,Passed all validation rules,1005
-DGX,Quest Diagnostics,Health Care,Health Care Services,Included,Passed all validation rules,1005
-RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Included,Passed all validation rules,1005
-RJF,Raymond James Financial,Financials,Investment Banking & Brokerage,Included,Passed all validation rules,1005
-RDDT,Reddit,Communication Services,Interactive Media & Services,Excluded,Incomplete history (197 of 1005 days),197
-O,Realty Income,Real Estate,Retail REITs,Included,Passed all validation rules,1005
-REG,Regency Centers,Real Estate,Retail REITs,Included,Passed all validation rules,1005
-REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,Included,Passed all validation rules,1005
-RF,Regions Financial Corporation,Financials,Regional Banks,Included,Passed all validation rules,1005
-RSG,Republic Services,Industrials,Environmental & Facilities Services,Included,Passed all validation rules,1005
-RMD,ResMed,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-RVTY,Revvity,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-HOOD,Robinhood Markets,Financials,Investment Banking & Brokerage,Excluded,Incomplete history (862 of 1005 days),862
-ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
-ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Included,Passed all validation rules,1005
-ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Included,Passed all validation rules,1005
-ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Included,Passed all validation rules,1005
-RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
-RTX,RTX Corporation,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-SPGI,S&P Global,Financials,Financial Exchanges & Data,Included,Passed all validation rules,1005
-CRM,Salesforce,Information Technology,Application Software,Included,Passed all validation rules,1005
-SNDK,Sandisk,Information Technology,"Technology Hardware, Storage & Peripherals",Excluded,No price data in the study period,0
-SBAC,SBA Communications,Real Estate,Telecom Tower REITs,Included,Passed all validation rules,1005
-SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,Included,Passed all validation rules,1005
-STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-SRE,Sempra,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-NOW,ServiceNow,Information Technology,Systems Software,Included,Passed all validation rules,1005
-SHW,Sherwin-Williams,Materials,Specialty Chemicals,Included,Passed all validation rules,1005
-SPG,Simon Property Group,Real Estate,Retail REITs,Included,Passed all validation rules,1005
-SKYD,Skydance,Communication Services,Movies & Entertainment,Included,Passed all validation rules,1005
-SWKS,Skyworks Solutions,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,Excluded,Zero-volume days (424),1005
-SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-SOLV,Solventum,Health Care,Health Care Technology,Excluded,Incomplete history (194 of 1005 days),194
-SO,Southern Company,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-LUV,Southwest Airlines,Industrials,Passenger Airlines,Included,Passed all validation rules,1005
-SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-SBUX,Starbucks,Consumer Discretionary,Restaurants,Included,Passed all validation rules,1005
-STT,State Street Corporation,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-STLD,Steel Dynamics,Materials,Steel,Included,Passed all validation rules,1005
-STE,Steris,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-SYK,Stryker Corporation,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-SYF,Synchrony Financial,Financials,Consumer Finance,Included,Passed all validation rules,1005
-SNPS,Synopsys,Information Technology,Application Software,Included,Passed all validation rules,1005
-SYY,Sysco,Consumer Staples,Food Distributors,Included,Passed all validation rules,1005
-TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Included,Passed all validation rules,1005
-TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
-TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Included,Passed all validation rules,1005
-TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Included,Passed all validation rules,1005
-TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Included,Passed all validation rules,1005
-TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Included,Passed all validation rules,1005
-TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Included,Passed all validation rules,1005
-TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Included,Passed all validation rules,1005
-TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Included,Passed all validation rules,1005
-TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Included,Passed all validation rules,1005
-TXN,Texas Instruments,Information Technology,Semiconductors,Included,Passed all validation rules,1005
-TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
-TXT,Textron,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Included,Passed all validation rules,1005
-TKO,TKO Group Holdings,Communication Services,Movies & Entertainment,Included,Passed all validation rules,1005
-TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Included,Passed all validation rules,1005
-TT,Trane Technologies,Industrials,Building Products,Included,Passed all validation rules,1005
-TDG,TransDigm Group,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-TRMB,Trimble Inc.,Information Technology,Application Software,Included,Passed all validation rules,1005
-TFC,Truist Financial,Financials,Diversified Banks,Included,Passed all validation rules,1005
-TWLO,Twilio,Information Technology,Systems Software,Included,Passed all validation rules,1005
-TYL,Tyler Technologies,Information Technology,Application Software,Included,Passed all validation rules,1005
-TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-USB,U.S. Bancorp,Financials,Diversified Banks,Included,Passed all validation rules,1005
-UBER,Uber,Industrials,Passenger Ground Transportation,Included,Passed all validation rules,1005
-UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Included,Passed all validation rules,1005
-ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Included,Passed all validation rules,1005
-UNP,Union Pacific Corporation,Industrials,Rail Transportation,Included,Passed all validation rules,1005
-UAL,United Airlines Holdings,Industrials,Passenger Airlines,Included,Passed all validation rules,1005
-UPS,United Parcel Service,Industrials,Air Freight & Logistics,Included,Passed all validation rules,1005
-URI,United Rentals,Industrials,Trading Companies & Distributors,Included,Passed all validation rules,1005
-UNH,UnitedHealth Group,Health Care,Managed Health Care,Included,Passed all validation rules,1005
-UHS,Universal Health Services,Health Care,Health Care Facilities,Included,Passed all validation rules,1005
-VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Included,Passed all validation rules,1005
-VEEV,Veeva Systems,Health Care,Health Care Technology,Included,Passed all validation rules,1005
-VTR,Ventas,Real Estate,Health Care REITs,Included,Passed all validation rules,1005
-VLTO,Veralto,Industrials,Environmental & Facilities Services,Excluded,Incomplete history (313 of 1005 days),313
-VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Included,Passed all validation rules,1005
-VRSK,Verisk Analytics,Industrials,Research & Consulting Services,Included,Passed all validation rules,1005
-VZ,Verizon,Communication Services,Integrated Telecommunication Services,Included,Passed all validation rules,1005
-VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Included,Passed all validation rules,1005
-VRT,Vertiv,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
-VTRS,Viatris,Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
-VICI,Vici Properties,Real Estate,Hotel & Resort REITs,Included,Passed all validation rules,1005
-V,Visa Inc.,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
-VST,Vistra Corp.,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-VMRK,Vivmark Residential,Real Estate,Multi-Family Residential REITs,Included,Passed all validation rules,1005
-VMC,Vulcan Materials Company,Materials,Construction Materials,Included,Passed all validation rules,1005
-VYLR,Vylor,Consumer Staples,Agricultural Products & Services,Excluded,No price data in the study period,0
-WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
-GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Included,Passed all validation rules,1005
-WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Included,Passed all validation rules,1005
-DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Included,Passed all validation rules,1005
-WM,Waste Management,Industrials,Environmental & Facilities Services,Included,Passed all validation rules,1005
-WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Included,Passed all validation rules,1005
-WEC,WEC Energy Group,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-WFC,Wells Fargo,Financials,Diversified Banks,Included,Passed all validation rules,1005
-WELL,Welltower,Real Estate,Health Care REITs,Included,Passed all validation rules,1005
-WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Included,Passed all validation rules,1005
-WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
-WY,Weyerhaeuser,Real Estate,Timber REITs,Included,Passed all validation rules,1005
-WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Homefurnishing Retail,Included,Passed all validation rules,1005
-WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Included,Passed all validation rules,1005
-WTW,Willis Towers Watson,Financials,Insurance Brokers,Included,Passed all validation rules,1005
-WDAY,"Workday, Inc.",Information Technology,Application Software,Included,Passed all validation rules,1005
-WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Included,Passed all validation rules,1005
-XEL,Xcel Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
-XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-YUM,Yum! Brands,Consumer Discretionary,Restaurants,Included,Passed all validation rules,1005
-ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Included,Passed all validation rules,1005
-ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-ZTS,Zoetis,Health Care,Pharmaceuticals,Included,Passed all validation rules,1005
+Share_key,Security,GICS Sector,Action,Reason
+MMM,3M,Industrials,Included,Passed all checks
+AOS,A. O. Smith,Industrials,Included,Passed all checks
+ABT,Abbott Laboratories,Health Care,Included,Passed all checks
+ABBV,AbbVie,Health Care,Included,Passed all checks
+ACN,Accenture,Information Technology,Included,Passed all checks
+ADBE,Adobe Inc.,Information Technology,Included,Passed all checks
+AMD,Advanced Micro Devices,Information Technology,Included,Passed all checks
+AES,AES Corporation,Utilities,Included,Passed all checks
+AFL,Aflac,Financials,Included,Passed all checks
+A,Agilent Technologies,Health Care,Included,Passed all checks
+APD,Air Products,Materials,Included,Passed all checks
+ABNB,Airbnb,Consumer Discretionary,Included,Passed all checks
+AKAM,Akamai Technologies,Information Technology,Included,Passed all checks
+ALB,Albemarle Corporation,Materials,Included,Passed all checks
+ARE,Alexandria Real Estate Equities,Real Estate,Included,Passed all checks
+ALGN,Align Technology,Health Care,Included,Passed all checks
+ALLE,Allegion,Industrials,Included,Passed all checks
+LNT,Alliant Energy,Utilities,Included,Passed all checks
+ALL,Allstate,Financials,Included,Passed all checks
+GOOGL,Alphabet Inc. (Class A),Communication Services,Included,Passed all checks
+GOOG,Alphabet Inc. (Class C),Communication Services,Included,Passed all checks
+MO,Altria,Consumer Staples,Included,Passed all checks
+AMZN,Amazon,Consumer Discretionary,Included,Passed all checks
+AMCR,Amcor,Materials,Included,Passed all checks
+AEE,Ameren,Utilities,Included,Passed all checks
+AEP,American Electric Power,Utilities,Included,Passed all checks
+AXP,American Express,Financials,Included,Passed all checks
+AIG,American International Group,Financials,Included,Passed all checks
+AMT,American Tower,Real Estate,Included,Passed all checks
+AWK,American Water Works,Utilities,Included,Passed all checks
+AMP,Ameriprise Financial,Financials,Included,Passed all checks
+AME,Ametek,Industrials,Included,Passed all checks
+AMGN,Amgen,Health Care,Included,Passed all checks
+APH,Amphenol,Information Technology,Included,Passed all checks
+ADI,Analog Devices,Information Technology,Included,Passed all checks
+AON,Aon plc,Financials,Included,Passed all checks
+APA,APA Corporation,Energy,Included,Passed all checks
+APO,Apollo Global Management,Financials,Included,Passed all checks
+AAPL,Apple Inc.,Information Technology,Included,Passed all checks
+AMAT,Applied Materials,Information Technology,Included,Passed all checks
+APP,AppLovin,Communication Services,Excluded,"Incomplete history, starts 2021-04-15"
+APTV,Aptiv,Consumer Discretionary,Included,Passed all checks
+ACGL,Arch Capital Group,Financials,Included,Passed all checks
+ADM,Archer Daniels Midland,Consumer Staples,Included,Passed all checks
+ARES,Ares Management,Financials,Included,Passed all checks
+ANET,Arista Networks,Information Technology,Included,Passed all checks
+AJG,Arthur J. Gallagher & Co.,Financials,Included,Passed all checks
+AIZ,Assurant,Financials,Included,Passed all checks
+T,AT&T,Communication Services,Included,Passed all checks
+ATO,Atmos Energy,Utilities,Included,Passed all checks
+ADSK,Autodesk,Information Technology,Included,Passed all checks
+ADP,Automatic Data Processing,Industrials,Included,Passed all checks
+AZO,AutoZone,Consumer Discretionary,Included,Passed all checks
+AVY,Avery Dennison,Materials,Included,Passed all checks
+AXON,Axon Enterprise,Industrials,Included,Passed all checks
+BKR,Baker Hughes,Energy,Included,Passed all checks
+BALL,Ball Corporation,Materials,Included,Passed all checks
+BAC,Bank of America,Financials,Included,Passed all checks
+BAX,Baxter International,Health Care,Included,Passed all checks
+BDX,Becton Dickinson,Health Care,Included,Passed all checks
+BRK-B,Berkshire Hathaway,Financials,Included,Passed all checks
+BBY,Best Buy,Consumer Discretionary,Included,Passed all checks
+TECH,Bio-Techne,Health Care,Included,Passed all checks
+BIIB,Biogen,Health Care,Included,Passed all checks
+BLK,BlackRock,Financials,Included,Passed all checks
+BX,Blackstone Inc.,Financials,Included,Passed all checks
+XYZ,"Block, Inc.",Financials,Included,Passed all checks
+BE,Bloom Energy,Industrials,Included,Passed all checks
+BNY,BNY Mellon,Financials,Included,Passed all checks
+BA,Boeing,Industrials,Included,Passed all checks
+BKNG,Booking Holdings,Consumer Discretionary,Included,Passed all checks
+BSX,Boston Scientific,Health Care,Included,Passed all checks
+BMY,Bristol Myers Squibb,Health Care,Included,Passed all checks
+AVGO,Broadcom,Information Technology,Included,Passed all checks
+BR,Broadridge Financial Solutions,Industrials,Included,Passed all checks
+BRO,Brown & Brown,Financials,Included,Passed all checks
+BF-B,Brown–Forman,Consumer Staples,Included,Passed all checks
+BG,Bunge Global,Consumer Staples,Included,Passed all checks
+BXP,"BXP, Inc.",Real Estate,Included,Passed all checks
+CHRW,C.H. Robinson,Industrials,Included,Passed all checks
+CDNS,Cadence Design Systems,Information Technology,Included,Passed all checks
+CPT,Camden Property Trust,Real Estate,Included,Passed all checks
+COF,Capital One,Financials,Included,Passed all checks
+CAH,Cardinal Health,Health Care,Included,Passed all checks
+CCL,Carnival Corporation,Consumer Discretionary,Included,Passed all checks
+CARR,Carrier Global,Industrials,Included,Passed all checks
+CVNA,Carvana,Consumer Discretionary,Included,Passed all checks
+CASY,Casey's,Consumer Staples,Included,Passed all checks
+CAT,Caterpillar Inc.,Industrials,Included,Passed all checks
+CBOE,Cboe Global Markets,Financials,Included,Passed all checks
+CBRE,CBRE Group,Real Estate,Included,Passed all checks
+CDW,CDW Corporation,Information Technology,Included,Passed all checks
+COR,Cencora,Health Care,Included,Passed all checks
+CNC,Centene Corporation,Health Care,Included,Passed all checks
+CNP,CenterPoint Energy,Utilities,Included,Passed all checks
+CF,CF Industries,Materials,Included,Passed all checks
+CRL,Charles River Laboratories,Health Care,Included,Passed all checks
+SCHW,Charles Schwab Corporation,Financials,Included,Passed all checks
+CHTR,Charter Communications,Communication Services,Included,Passed all checks
+CVX,Chevron Corporation,Energy,Included,Passed all checks
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Included,Passed all checks
+CB,Chubb Limited,Financials,Included,Passed all checks
+CHD,Church & Dwight,Consumer Staples,Included,Passed all checks
+CIEN,Ciena,Information Technology,Included,Passed all checks
+CI,Cigna,Health Care,Included,Passed all checks
+CINF,Cincinnati Financial,Financials,Included,Passed all checks
+CTAS,Cintas,Industrials,Included,Passed all checks
+CSCO,Cisco,Information Technology,Included,Passed all checks
+C,Citigroup,Financials,Included,Passed all checks
+CFG,Citizens Financial Group,Financials,Included,Passed all checks
+CLX,Clorox,Consumer Staples,Included,Passed all checks
+CME,CME Group,Financials,Included,Passed all checks
+CMS,CMS Energy,Utilities,Included,Passed all checks
+KO,Coca-Cola Company (The),Consumer Staples,Included,Passed all checks
+CTSH,Cognizant,Information Technology,Included,Passed all checks
+COHR,Coherent Corp.,Information Technology,Included,Passed all checks
+COIN,Coinbase,Financials,Excluded,"Incomplete history, starts 2021-04-14"
+CL,Colgate-Palmolive,Consumer Staples,Included,Passed all checks
+CMCSA,Comcast,Communication Services,Included,Passed all checks
+FIX,Comfort Systems USA,Industrials,Included,Passed all checks
+COP,ConocoPhillips,Energy,Included,Passed all checks
+ED,Consolidated Edison,Utilities,Included,Passed all checks
+STZ,Constellation Brands,Consumer Staples,Included,Passed all checks
+CEG,Constellation Energy,Utilities,Excluded,"Incomplete history, starts 2022-01-19"
+COO,Cooper Companies (The),Health Care,Included,Passed all checks
+CPRT,Copart,Industrials,Included,Passed all checks
+GLW,Corning Inc.,Information Technology,Included,Passed all checks
+CPAY,Corpay,Financials,Included,Passed all checks
+CSGP,CoStar Group,Real Estate,Included,Passed all checks
+COST,Costco,Consumer Staples,Included,Passed all checks
+CRH,CRH plc,Materials,Included,Passed all checks
+CRWD,CrowdStrike,Information Technology,Included,Passed all checks
+CCI,Crown Castle,Real Estate,Included,Passed all checks
+CSX,CSX Corporation,Industrials,Included,Passed all checks
+CMI,Cummins,Industrials,Included,Passed all checks
+CVS,CVS Health,Health Care,Included,Passed all checks
+DHR,Danaher Corporation,Health Care,Included,Passed all checks
+DRI,Darden Restaurants,Consumer Discretionary,Included,Passed all checks
+DDOG,Datadog,Information Technology,Included,Passed all checks
+DVA,DaVita,Health Care,Included,Passed all checks
+DECK,Deckers Brands,Consumer Discretionary,Included,Passed all checks
+DE,Deere & Company,Industrials,Included,Passed all checks
+DELL,Dell Technologies,Information Technology,Included,Passed all checks
+DAL,Delta Air Lines,Industrials,Included,Passed all checks
+DVN,Devon Energy,Energy,Included,Passed all checks
+DXCM,Dexcom,Health Care,Included,Passed all checks
+FANG,Diamondback Energy,Energy,Included,Passed all checks
+DLR,Digital Realty,Real Estate,Included,Passed all checks
+DG,Dollar General,Consumer Staples,Included,Passed all checks
+DLTR,Dollar Tree,Consumer Staples,Included,Passed all checks
+D,Dominion Energy,Utilities,Included,Passed all checks
+DPZ,Domino's,Consumer Discretionary,Included,Passed all checks
+DASH,DoorDash,Consumer Discretionary,Included,Passed all checks
+DOV,Dover Corporation,Industrials,Included,Passed all checks
+DOW,Dow Inc.,Materials,Included,Passed all checks
+DHI,D. R. Horton,Consumer Discretionary,Included,Passed all checks
+DTE,DTE Energy,Utilities,Included,Passed all checks
+DUK,Duke Energy,Utilities,Included,Passed all checks
+DD,DuPont,Industrials,Included,Passed all checks
+ETN,Eaton Corporation,Industrials,Included,Passed all checks
+EBAY,eBay Inc.,Consumer Discretionary,Included,Passed all checks
+ECHO,EchoStar,Communication Services,Included,Passed all checks
+ECL,Ecolab,Materials,Included,Passed all checks
+EIX,Edison International,Utilities,Included,Passed all checks
+EW,Edwards Lifesciences,Health Care,Included,Passed all checks
+ELV,Elevance Health,Health Care,Included,Passed all checks
+EME,Emcor,Industrials,Included,Passed all checks
+EMR,Emerson Electric,Industrials,Included,Passed all checks
+ETR,Entergy,Utilities,Included,Passed all checks
+EOG,EOG Resources,Energy,Included,Passed all checks
+EQT,EQT Corporation,Energy,Included,Passed all checks
+EFX,Equifax,Industrials,Included,Passed all checks
+EQIX,Equinix,Real Estate,Included,Passed all checks
+ERIE,Erie Indemnity,Financials,Included,Passed all checks
+ESS,Essex Property Trust,Real Estate,Included,Passed all checks
+EL,Estée Lauder Companies (The),Consumer Staples,Included,Passed all checks
+EG,Everest Group,Financials,Included,Passed all checks
+EVRG,Evergy,Utilities,Included,Passed all checks
+P,Everpure,Information Technology,Included,Passed all checks
+ES,Eversource Energy,Utilities,Included,Passed all checks
+EXC,Exelon,Utilities,Included,Passed all checks
+EXE,Expand Energy,Energy,Excluded,"Incomplete history, starts 2021-02-10"
+EXPE,Expedia Group,Consumer Discretionary,Included,Passed all checks
+EXPD,Expeditors International,Industrials,Included,Passed all checks
+EXR,Extra Space Storage,Real Estate,Included,Passed all checks
+XOM,ExxonMobil,Energy,Included,Passed all checks
+FFIV,"F5, Inc.",Information Technology,Included,Passed all checks
+FDS,FactSet,Financials,Included,Passed all checks
+FICO,Fair Isaac,Information Technology,Included,Passed all checks
+FAST,Fastenal,Industrials,Included,Passed all checks
+FRT,Federal Realty Investment Trust,Real Estate,Included,Passed all checks
+FDX,FedEx,Industrials,Included,Passed all checks
+FDXF,FedEx Freight,Industrials,Excluded,No price data
+FERG,Ferguson Enterprises,Industrials,Excluded,Zero-volume days (27)
+FIS,Fidelity National Information Services,Financials,Included,Passed all checks
+FITB,Fifth Third Bancorp,Financials,Included,Passed all checks
+FSLR,First Solar,Information Technology,Included,Passed all checks
+FE,FirstEnergy,Utilities,Included,Passed all checks
+FISV,Fiserv,Financials,Included,Passed all checks
+FLEX,Flex Ltd.,Information Technology,Included,Passed all checks
+F,Ford Motor Company,Consumer Discretionary,Included,Passed all checks
+FTNT,Fortinet,Information Technology,Included,Passed all checks
+FTV,Fortive,Industrials,Included,Passed all checks
+FOXA,Fox Corporation (Class A),Communication Services,Included,Passed all checks
+FOX,Fox Corporation (Class B),Communication Services,Included,Passed all checks
+BEN,Franklin Resources,Financials,Included,Passed all checks
+FCX,Freeport-McMoRan,Materials,Included,Passed all checks
+GRMN,Garmin,Consumer Discretionary,Included,Passed all checks
+IT,Gartner,Information Technology,Included,Passed all checks
+GE,GE Aerospace,Industrials,Included,Passed all checks
+GEHC,GE HealthCare,Health Care,Excluded,"Incomplete history, starts 2022-12-15"
+GEV,GE Vernova,Industrials,Excluded,"Incomplete history, starts 2024-03-27"
+GEN,Gen Digital,Information Technology,Included,Passed all checks
+GNRC,Generac,Industrials,Included,Passed all checks
+GD,General Dynamics,Industrials,Included,Passed all checks
+GIS,General Mills,Consumer Staples,Included,Passed all checks
+GM,General Motors,Consumer Discretionary,Included,Passed all checks
+GPC,Genuine Parts Company,Consumer Discretionary,Included,Passed all checks
+GILD,Gilead Sciences,Health Care,Included,Passed all checks
+GPN,Global Payments,Financials,Included,Passed all checks
+GL,Globe Life,Financials,Included,Passed all checks
+GDDY,GoDaddy,Information Technology,Included,Passed all checks
+GS,Goldman Sachs,Financials,Included,Passed all checks
+HAL,Halliburton,Energy,Included,Passed all checks
+HIG,Hartford (The),Financials,Included,Passed all checks
+HAS,Hasbro,Consumer Discretionary,Included,Passed all checks
+HCA,HCA Healthcare,Health Care,Included,Passed all checks
+DOC,Healthpeak Properties,Real Estate,Included,Passed all checks
+HSIC,Henry Schein,Health Care,Included,Passed all checks
+HSY,Hershey Company (The),Consumer Staples,Included,Passed all checks
+HPE,Hewlett Packard Enterprise,Information Technology,Included,Passed all checks
+HLT,Hilton Worldwide,Consumer Discretionary,Included,Passed all checks
+HD,Home Depot (The),Consumer Discretionary,Included,Passed all checks
+HONA,Honeywell Aerospace,Industrials,Excluded,No price data
+HON,Honeywell Technologies,Industrials,Included,Passed all checks
+HRL,Hormel Foods,Consumer Staples,Included,Passed all checks
+HST,Host Hotels & Resorts,Real Estate,Included,Passed all checks
+HWM,Howmet Aerospace,Industrials,Included,Passed all checks
+HPQ,HP Inc.,Information Technology,Included,Passed all checks
+HUBB,Hubbell Incorporated,Industrials,Included,Passed all checks
+HUM,Humana,Health Care,Included,Passed all checks
+HBAN,Huntington Bancshares,Financials,Included,Passed all checks
+HII,Huntington Ingalls Industries,Industrials,Included,Passed all checks
+IBM,IBM,Information Technology,Included,Passed all checks
+IEX,IDEX Corporation,Industrials,Included,Passed all checks
+IDXX,Idexx Laboratories,Health Care,Included,Passed all checks
+ITW,Illinois Tool Works,Industrials,Included,Passed all checks
+ILMN,"Illumina, Inc.",Health Care,Included,Passed all checks
+INCY,Incyte,Health Care,Included,Passed all checks
+IR,Ingersoll Rand,Industrials,Included,Passed all checks
+PODD,Insulet Corporation,Health Care,Included,Passed all checks
+INTC,Intel,Information Technology,Included,Passed all checks
+IBKR,Interactive Brokers,Financials,Included,Passed all checks
+ICE,Intercontinental Exchange,Financials,Included,Passed all checks
+IFF,International Flavors & Fragrances,Materials,Included,Passed all checks
+IP,International Paper,Materials,Included,Passed all checks
+INTU,Intuit,Information Technology,Included,Passed all checks
+ISRG,Intuitive Surgical,Health Care,Included,Passed all checks
+IVZ,Invesco,Financials,Included,Passed all checks
+INVH,Invitation Homes,Real Estate,Included,Passed all checks
+IQV,IQVIA,Health Care,Included,Passed all checks
+IRM,Iron Mountain,Real Estate,Included,Passed all checks
+JBHT,J.B. Hunt,Industrials,Included,Passed all checks
+JBL,Jabil,Information Technology,Included,Passed all checks
+JKHY,Jack Henry & Associates,Financials,Included,Passed all checks
+J,Jacobs Solutions,Industrials,Included,Passed all checks
+JNJ,Johnson & Johnson,Health Care,Included,Passed all checks
+JCI,Johnson Controls,Industrials,Included,Passed all checks
+JPM,JPMorgan Chase,Financials,Included,Passed all checks
+KDP,Keurig Dr Pepper,Consumer Staples,Included,Passed all checks
+KEY,KeyCorp,Financials,Included,Passed all checks
+KEYS,Keysight Technologies,Information Technology,Included,Passed all checks
+KMB,Kimberly-Clark,Consumer Staples,Included,Passed all checks
+KIM,Kimco Realty,Real Estate,Included,Passed all checks
+KMI,Kinder Morgan,Energy,Included,Passed all checks
+KKR,KKR & Co.,Financials,Included,Passed all checks
+KLAC,KLA Corporation,Information Technology,Included,Passed all checks
+KHC,Kraft Heinz,Consumer Staples,Included,Passed all checks
+KR,Kroger,Consumer Staples,Included,Passed all checks
+LHX,L3Harris,Industrials,Included,Passed all checks
+LH,Labcorp,Health Care,Included,Passed all checks
+LRCX,Lam Research,Information Technology,Included,Passed all checks
+LVS,Las Vegas Sands,Consumer Discretionary,Included,Passed all checks
+LDOS,Leidos,Industrials,Included,Passed all checks
+LEN,Lennar,Consumer Discretionary,Included,Passed all checks
+LII,Lennox International,Industrials,Included,Passed all checks
+LLY,Lilly (Eli),Health Care,Included,Passed all checks
+LIN,Linde plc,Materials,Included,Passed all checks
+LYV,Live Nation Entertainment,Communication Services,Included,Passed all checks
+LMT,Lockheed Martin,Industrials,Included,Passed all checks
+L,Loews Corporation,Financials,Included,Passed all checks
+LOW,Lowe's,Consumer Discretionary,Included,Passed all checks
+LULU,Lululemon Athletica,Consumer Discretionary,Included,Passed all checks
+LITE,Lumentum,Information Technology,Included,Passed all checks
+LYB,LyondellBasell,Materials,Included,Passed all checks
+MTB,M&T Bank,Financials,Included,Passed all checks
+MPC,Marathon Petroleum,Energy,Included,Passed all checks
+MAR,Marriott International,Consumer Discretionary,Included,Passed all checks
+MRSH,Marsh McLennan,Financials,Included,Passed all checks
+MLM,Martin Marietta Materials,Materials,Included,Passed all checks
+MRVL,Marvell Technology,Information Technology,Included,Passed all checks
+MAS,Masco,Industrials,Included,Passed all checks
+MA,Mastercard,Financials,Included,Passed all checks
+MKC,McCormick & Company,Consumer Staples,Included,Passed all checks
+MCD,McDonald's,Consumer Discretionary,Included,Passed all checks
+MCK,McKesson,Health Care,Included,Passed all checks
+MDT,Medtronic,Health Care,Included,Passed all checks
+MRK,Merck & Co.,Health Care,Included,Passed all checks
+META,Meta Platforms,Communication Services,Included,Passed all checks
+MET,MetLife,Financials,Included,Passed all checks
+MTD,Mettler Toledo,Health Care,Included,Passed all checks
+MGM,MGM Resorts,Consumer Discretionary,Included,Passed all checks
+MCHP,Microchip Technology,Information Technology,Included,Passed all checks
+MU,Micron Technology,Information Technology,Included,Passed all checks
+MSFT,Microsoft,Information Technology,Included,Passed all checks
+MAA,Mid-America Apartment Communities,Real Estate,Included,Passed all checks
+MRNA,Moderna,Health Care,Included,Passed all checks
+MDLZ,Mondelez International,Consumer Staples,Included,Passed all checks
+MPWR,Monolithic Power Systems,Information Technology,Included,Passed all checks
+MNST,Monster Beverage,Consumer Staples,Included,Passed all checks
+MCO,Moody's Corporation,Financials,Included,Passed all checks
+MS,Morgan Stanley,Financials,Included,Passed all checks
+MOS,Mosaic Company (The),Materials,Included,Passed all checks
+MSI,Motorola Solutions,Information Technology,Included,Passed all checks
+MSCI,MSCI,Financials,Included,Passed all checks
+NDAQ,"Nasdaq, Inc.",Financials,Included,Passed all checks
+NTAP,NetApp,Information Technology,Included,Passed all checks
+NFLX,Netflix,Communication Services,Included,Passed all checks
+NEM,Newmont,Materials,Included,Passed all checks
+NWSA,News Corp (Class A),Communication Services,Included,Passed all checks
+NWS,News Corp (Class B),Communication Services,Included,Passed all checks
+NEE,NextEra Energy,Utilities,Included,Passed all checks
+NKE,"Nike, Inc.",Consumer Discretionary,Included,Passed all checks
+NI,NiSource,Utilities,Included,Passed all checks
+NDSN,Nordson Corporation,Industrials,Included,Passed all checks
+NSC,Norfolk Southern,Industrials,Included,Passed all checks
+NTRS,Northern Trust,Financials,Included,Passed all checks
+NOC,Northrop Grumman,Industrials,Included,Passed all checks
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,Included,Passed all checks
+NRG,NRG Energy,Utilities,Included,Passed all checks
+NUE,Nucor,Materials,Included,Passed all checks
+NVDA,Nvidia,Information Technology,Included,Passed all checks
+NVR,"NVR, Inc.",Consumer Discretionary,Included,Passed all checks
+NXPI,NXP Semiconductors,Information Technology,Included,Passed all checks
+ORLY,O'Reilly Automotive,Consumer Discretionary,Included,Passed all checks
+OXY,Occidental Petroleum,Energy,Included,Passed all checks
+OKTA,"Okta, Inc.",Information Technology,Included,Passed all checks
+ODFL,Old Dominion,Industrials,Included,Passed all checks
+OMC,Omnicom Group,Communication Services,Included,Passed all checks
+ON,ON Semiconductor,Information Technology,Included,Passed all checks
+OKE,Oneok,Energy,Included,Passed all checks
+ORCL,Oracle Corporation,Information Technology,Included,Passed all checks
+OTIS,Otis Worldwide,Industrials,Included,Passed all checks
+PCAR,Paccar,Industrials,Included,Passed all checks
+PKG,Packaging Corporation of America,Materials,Included,Passed all checks
+PLTR,Palantir Technologies,Information Technology,Included,Passed all checks
+PANW,Palo Alto Networks,Information Technology,Included,Passed all checks
+PH,Parker Hannifin,Industrials,Included,Passed all checks
+PAYX,Paychex,Industrials,Included,Passed all checks
+PYPL,PayPal,Financials,Included,Passed all checks
+PNR,Pentair,Industrials,Included,Passed all checks
+PEP,PepsiCo,Consumer Staples,Included,Passed all checks
+PFE,Pfizer,Health Care,Included,Passed all checks
+PCG,PG&E Corporation,Utilities,Included,Passed all checks
+PM,Philip Morris International,Consumer Staples,Included,Passed all checks
+PSX,Phillips 66,Energy,Included,Passed all checks
+PNW,Pinnacle West Capital,Utilities,Included,Passed all checks
+PNC,PNC Financial Services,Financials,Included,Passed all checks
+PPG,PPG Industries,Materials,Included,Passed all checks
+PPL,PPL Corporation,Utilities,Included,Passed all checks
+PFG,Principal Financial Group,Financials,Included,Passed all checks
+PG,Procter & Gamble,Consumer Staples,Included,Passed all checks
+PGR,Progressive Corporation,Financials,Included,Passed all checks
+PLD,Prologis,Real Estate,Included,Passed all checks
+PRU,Prudential Financial,Financials,Included,Passed all checks
+PTC,PTC Inc.,Information Technology,Included,Passed all checks
+PEG,Public Service Enterprise Group,Utilities,Included,Passed all checks
+PSA,Public Storage,Real Estate,Included,Passed all checks
+PHM,PulteGroup,Consumer Discretionary,Included,Passed all checks
+Q,Qnity Electronics,Information Technology,Excluded,No price data
+QCOM,Qualcomm,Information Technology,Included,Passed all checks
+PWR,Quanta Services,Industrials,Included,Passed all checks
+DGX,Quest Diagnostics,Health Care,Included,Passed all checks
+RL,Ralph Lauren Corporation,Consumer Discretionary,Included,Passed all checks
+RJF,Raymond James Financial,Financials,Included,Passed all checks
+RDDT,Reddit,Communication Services,Excluded,"Incomplete history, starts 2024-03-21"
+O,Realty Income,Real Estate,Included,Passed all checks
+REG,Regency Centers,Real Estate,Included,Passed all checks
+REGN,Regeneron Pharmaceuticals,Health Care,Included,Passed all checks
+RF,Regions Financial Corporation,Financials,Included,Passed all checks
+RSG,Republic Services,Industrials,Included,Passed all checks
+RMD,ResMed,Health Care,Included,Passed all checks
+RVTY,Revvity,Health Care,Included,Passed all checks
+HOOD,Robinhood Markets,Financials,Excluded,"Incomplete history, starts 2021-07-29"
+ROK,Rockwell Automation,Industrials,Included,Passed all checks
+ROL,"Rollins, Inc.",Industrials,Included,Passed all checks
+ROP,Roper Technologies,Information Technology,Included,Passed all checks
+ROST,Ross Stores,Consumer Discretionary,Included,Passed all checks
+RCL,Royal Caribbean Group,Consumer Discretionary,Included,Passed all checks
+RTX,RTX Corporation,Industrials,Included,Passed all checks
+SPGI,S&P Global,Financials,Included,Passed all checks
+CRM,Salesforce,Information Technology,Included,Passed all checks
+SNDK,Sandisk,Information Technology,Excluded,No price data
+SBAC,SBA Communications,Real Estate,Included,Passed all checks
+SLB,Schlumberger,Energy,Included,Passed all checks
+STX,Seagate Technology,Information Technology,Included,Passed all checks
+SRE,Sempra,Utilities,Included,Passed all checks
+NOW,ServiceNow,Information Technology,Included,Passed all checks
+SHW,Sherwin-Williams,Materials,Included,Passed all checks
+SPG,Simon Property Group,Real Estate,Included,Passed all checks
+SKYD,Skydance,Communication Services,Included,Passed all checks
+SWKS,Skyworks Solutions,Information Technology,Included,Passed all checks
+SJM,J.M. Smucker Company (The),Consumer Staples,Included,Passed all checks
+SW,Smurfit Westrock,Materials,Excluded,Zero-volume days (424)
+SNA,Snap-on,Industrials,Included,Passed all checks
+SOLV,Solventum,Health Care,Excluded,"Incomplete history, starts 2024-03-26"
+SO,Southern Company,Utilities,Included,Passed all checks
+LUV,Southwest Airlines,Industrials,Included,Passed all checks
+SWK,Stanley Black & Decker,Industrials,Included,Passed all checks
+SBUX,Starbucks,Consumer Discretionary,Included,Passed all checks
+STT,State Street Corporation,Financials,Included,Passed all checks
+STLD,Steel Dynamics,Materials,Included,Passed all checks
+STE,Steris,Health Care,Included,Passed all checks
+SYK,Stryker Corporation,Health Care,Included,Passed all checks
+SMCI,Supermicro,Information Technology,Included,Passed all checks
+SYF,Synchrony Financial,Financials,Included,Passed all checks
+SNPS,Synopsys,Information Technology,Included,Passed all checks
+SYY,Sysco,Consumer Staples,Included,Passed all checks
+TMUS,T-Mobile US,Communication Services,Included,Passed all checks
+TROW,T. Rowe Price,Financials,Included,Passed all checks
+TTWO,Take-Two Interactive,Communication Services,Included,Passed all checks
+TPR,"Tapestry, Inc.",Consumer Discretionary,Included,Passed all checks
+TRGP,Targa Resources,Energy,Included,Passed all checks
+TGT,Target Corporation,Consumer Staples,Included,Passed all checks
+TEL,TE Connectivity,Information Technology,Included,Passed all checks
+TDY,Teledyne Technologies,Information Technology,Included,Passed all checks
+TER,Teradyne,Information Technology,Included,Passed all checks
+TSLA,"Tesla, Inc.",Consumer Discretionary,Included,Passed all checks
+TXN,Texas Instruments,Information Technology,Included,Passed all checks
+TPL,Texas Pacific Land Corporation,Energy,Included,Passed all checks
+TXT,Textron,Industrials,Included,Passed all checks
+TMO,Thermo Fisher Scientific,Health Care,Included,Passed all checks
+TJX,TJX Companies,Consumer Discretionary,Included,Passed all checks
+TKO,TKO Group Holdings,Communication Services,Included,Passed all checks
+TSCO,Tractor Supply,Consumer Discretionary,Included,Passed all checks
+TT,Trane Technologies,Industrials,Included,Passed all checks
+TDG,TransDigm Group,Industrials,Included,Passed all checks
+TRV,Travelers Companies (The),Financials,Included,Passed all checks
+TRMB,Trimble Inc.,Information Technology,Included,Passed all checks
+TFC,Truist Financial,Financials,Included,Passed all checks
+TWLO,Twilio,Information Technology,Included,Passed all checks
+TYL,Tyler Technologies,Information Technology,Included,Passed all checks
+TSN,Tyson Foods,Consumer Staples,Included,Passed all checks
+USB,U.S. Bancorp,Financials,Included,Passed all checks
+UBER,Uber,Industrials,Included,Passed all checks
+UDR,"UDR, Inc.",Real Estate,Included,Passed all checks
+ULTA,Ulta Beauty,Consumer Discretionary,Included,Passed all checks
+UNP,Union Pacific Corporation,Industrials,Included,Passed all checks
+UAL,United Airlines Holdings,Industrials,Included,Passed all checks
+UPS,United Parcel Service,Industrials,Included,Passed all checks
+URI,United Rentals,Industrials,Included,Passed all checks
+UNH,UnitedHealth Group,Health Care,Included,Passed all checks
+UHS,Universal Health Services,Health Care,Included,Passed all checks
+VLO,Valero Energy,Energy,Included,Passed all checks
+VEEV,Veeva Systems,Health Care,Included,Passed all checks
+VTR,Ventas,Real Estate,Included,Passed all checks
+VLTO,Veralto,Industrials,Excluded,"Incomplete history, starts 2023-10-04"
+VRSN,Verisign,Information Technology,Included,Passed all checks
+VRSK,Verisk Analytics,Industrials,Included,Passed all checks
+VZ,Verizon,Communication Services,Included,Passed all checks
+VRTX,Vertex Pharmaceuticals,Health Care,Included,Passed all checks
+VRT,Vertiv,Industrials,Included,Passed all checks
+VTRS,Viatris,Health Care,Included,Passed all checks
+VICI,Vici Properties,Real Estate,Included,Passed all checks
+V,Visa Inc.,Financials,Included,Passed all checks
+VST,Vistra Corp.,Utilities,Included,Passed all checks
+VMRK,Vivmark Residential,Real Estate,Included,Passed all checks
+VMC,Vulcan Materials Company,Materials,Included,Passed all checks
+VYLR,Vylor,Consumer Staples,Excluded,No price data
+WRB,W. R. Berkley Corporation,Financials,Included,Passed all checks
+GWW,W. W. Grainger,Industrials,Included,Passed all checks
+WAB,Wabtec,Industrials,Included,Passed all checks
+WMT,Walmart,Consumer Staples,Included,Passed all checks
+DIS,Walt Disney Company (The),Communication Services,Included,Passed all checks
+WM,Waste Management,Industrials,Included,Passed all checks
+WAT,Waters Corporation,Health Care,Included,Passed all checks
+WEC,WEC Energy Group,Utilities,Included,Passed all checks
+WFC,Wells Fargo,Financials,Included,Passed all checks
+WELL,Welltower,Real Estate,Included,Passed all checks
+WST,West Pharmaceutical Services,Health Care,Included,Passed all checks
+WDC,Western Digital,Information Technology,Included,Passed all checks
+WY,Weyerhaeuser,Real Estate,Included,Passed all checks
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Included,Passed all checks
+WMB,Williams Companies,Energy,Included,Passed all checks
+WTW,Willis Towers Watson,Financials,Included,Passed all checks
+WDAY,"Workday, Inc.",Information Technology,Included,Passed all checks
+WYNN,Wynn Resorts,Consumer Discretionary,Included,Passed all checks
+XEL,Xcel Energy,Utilities,Included,Passed all checks
+XYL,Xylem Inc.,Industrials,Included,Passed all checks
+YUM,Yum! Brands,Consumer Discretionary,Included,Passed all checks
+ZBRA,Zebra Technologies,Information Technology,Included,Passed all checks
+ZBH,Zimmer Biomet,Health Care,Included,Passed all checks
+ZTS,Zoetis,Health Care,Included,Passed all checks

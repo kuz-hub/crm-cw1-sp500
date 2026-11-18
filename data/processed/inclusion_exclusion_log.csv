@@ -1,504 +1,504 @@
 Ticker,Action,Reason,Days
-MMM,Included,Passed all validation rules,1005
-AOS,Included,Passed all validation rules,1005
-ABT,Included,Passed all validation rules,1005
-ABBV,Included,Passed all validation rules,1005
-ACN,Included,Passed all validation rules,1005
-ADBE,Included,Passed all validation rules,1005
-AMD,Included,Passed all validation rules,1005
-AES,Included,Passed all validation rules,1005
-AFL,Included,Passed all validation rules,1005
-A,Included,Passed all validation rules,1005
-APD,Included,Passed all validation rules,1005
-ABNB,Included,Passed all validation rules,1005
-AKAM,Included,Passed all validation rules,1005
-ALB,Included,Passed all validation rules,1005
-ARE,Included,Passed all validation rules,1005
-ALGN,Included,Passed all validation rules,1005
-ALLE,Included,Passed all validation rules,1005
-LNT,Included,Passed all validation rules,1005
-ALL,Included,Passed all validation rules,1005
-GOOGL,Included,Passed all validation rules,1005
-GOOG,Included,Passed all validation rules,1005
-MO,Included,Passed all validation rules,1005
-AMZN,Included,Passed all validation rules,1005
-AMCR,Included,Passed all validation rules,1005
-AEE,Included,Passed all validation rules,1005
-AEP,Included,Passed all validation rules,1005
-AXP,Included,Passed all validation rules,1005
-AIG,Included,Passed all validation rules,1005
-AMT,Included,Passed all validation rules,1005
-AWK,Included,Passed all validation rules,1005
-AMP,Included,Passed all validation rules,1005
-AME,Included,Passed all validation rules,1005
-AMGN,Included,Passed all validation rules,1005
-APH,Included,Passed all validation rules,1005
-ADI,Included,Passed all validation rules,1005
-AON,Included,Passed all validation rules,1005
-APA,Included,Passed all validation rules,1005
-APO,Included,Passed all validation rules,1005
-AAPL,Included,Passed all validation rules,1005
-AMAT,Included,Passed all validation rules,1005
-APP,Excluded,Incomplete history (935 of 1005 days),935
-APTV,Included,Passed all validation rules,1005
-ACGL,Included,Passed all validation rules,1005
-ADM,Included,Passed all validation rules,1005
-ARES,Included,Passed all validation rules,1005
-ANET,Included,Passed all validation rules,1005
-AJG,Included,Passed all validation rules,1005
-AIZ,Included,Passed all validation rules,1005
-T,Included,Passed all validation rules,1005
-ATO,Included,Passed all validation rules,1005
-ADSK,Included,Passed all validation rules,1005
-ADP,Included,Passed all validation rules,1005
-AZO,Included,Passed all validation rules,1005
-AVY,Included,Passed all validation rules,1005
-AXON,Included,Passed all validation rules,1005
-BKR,Included,Passed all validation rules,1005
-BALL,Included,Passed all validation rules,1005
-BAC,Included,Passed all validation rules,1005
-BAX,Included,Passed all validation rules,1005
-BDX,Included,Passed all validation rules,1005
-BRK-B,Included,Passed all validation rules,1005
-BBY,Included,Passed all validation rules,1005
-TECH,Included,Passed all validation rules,1005
-BIIB,Included,Passed all validation rules,1005
-BLK,Included,Passed all validation rules,1005
-BX,Included,Passed all validation rules,1005
-XYZ,Included,Passed all validation rules,1005
-BE,Included,Passed all validation rules,1005
-BNY,Included,Passed all validation rules,1005
-BA,Included,Passed all validation rules,1005
-BKNG,Included,Passed all validation rules,1005
-BSX,Included,Passed all validation rules,1005
-BMY,Included,Passed all validation rules,1005
-AVGO,Included,Passed all validation rules,1005
-BR,Included,Passed all validation rules,1005
-BRO,Included,Passed all validation rules,1005
-BF-B,Included,Passed all validation rules,1005
-BG,Included,Passed all validation rules,1005
-BXP,Included,Passed all validation rules,1005
-CHRW,Included,Passed all validation rules,1005
-CDNS,Included,Passed all validation rules,1005
-CPT,Included,Passed all validation rules,1005
-COF,Included,Passed all validation rules,1005
-CAH,Included,Passed all validation rules,1005
-CCL,Included,Passed all validation rules,1005
-CARR,Included,Passed all validation rules,1005
-CVNA,Included,Passed all validation rules,1005
-CASY,Included,Passed all validation rules,1005
-CAT,Included,Passed all validation rules,1005
-CBOE,Included,Passed all validation rules,1005
-CBRE,Included,Passed all validation rules,1005
-CDW,Included,Passed all validation rules,1005
-COR,Included,Passed all validation rules,1005
-CNC,Included,Passed all validation rules,1005
-CNP,Included,Passed all validation rules,1005
-CF,Included,Passed all validation rules,1005
-CRL,Included,Passed all validation rules,1005
-SCHW,Included,Passed all validation rules,1005
-CHTR,Included,Passed all validation rules,1005
-CVX,Included,Passed all validation rules,1005
-CMG,Included,Passed all validation rules,1005
-CB,Included,Passed all validation rules,1005
-CHD,Included,Passed all validation rules,1005
-CIEN,Included,Passed all validation rules,1005
-CI,Included,Passed all validation rules,1005
-CINF,Included,Passed all validation rules,1005
-CTAS,Included,Passed all validation rules,1005
-CSCO,Included,Passed all validation rules,1005
-C,Included,Passed all validation rules,1005
-CFG,Included,Passed all validation rules,1005
-CLX,Included,Passed all validation rules,1005
-CME,Included,Passed all validation rules,1005
-CMS,Included,Passed all validation rules,1005
-KO,Included,Passed all validation rules,1005
-CTSH,Included,Passed all validation rules,1005
-COHR,Included,Passed all validation rules,1005
-COIN,Excluded,Incomplete history (936 of 1005 days),936
-CL,Included,Passed all validation rules,1005
-CMCSA,Included,Passed all validation rules,1005
-FIX,Included,Passed all validation rules,1005
-COP,Included,Passed all validation rules,1005
-ED,Included,Passed all validation rules,1005
-STZ,Included,Passed all validation rules,1005
-CEG,Excluded,Incomplete history (742 of 1005 days),742
-COO,Included,Passed all validation rules,1005
-CPRT,Included,Passed all validation rules,1005
-GLW,Included,Passed all validation rules,1005
-CPAY,Included,Passed all validation rules,1005
-CSGP,Included,Passed all validation rules,1005
-COST,Included,Passed all validation rules,1005
-CRH,Included,Passed all validation rules,1005
-CRWD,Included,Passed all validation rules,1005
-CCI,Included,Passed all validation rules,1005
-CSX,Included,Passed all validation rules,1005
-CMI,Included,Passed all validation rules,1005
-CVS,Included,Passed all validation rules,1005
-DHR,Included,Passed all validation rules,1005
-DRI,Included,Passed all validation rules,1005
-DDOG,Included,Passed all validation rules,1005
-DVA,Included,Passed all validation rules,1005
-DECK,Included,Passed all validation rules,1005
-DE,Included,Passed all validation rules,1005
-DELL,Included,Passed all validation rules,1005
-DAL,Included,Passed all validation rules,1005
-DVN,Included,Passed all validation rules,1005
-DXCM,Included,Passed all validation rules,1005
-FANG,Included,Passed all validation rules,1005
-DLR,Included,Passed all validation rules,1005
-DG,Included,Passed all validation rules,1005
-DLTR,Included,Passed all validation rules,1005
-D,Included,Passed all validation rules,1005
-DPZ,Included,Passed all validation rules,1005
-DASH,Included,Passed all validation rules,1005
-DOV,Included,Passed all validation rules,1005
-DOW,Included,Passed all validation rules,1005
-DHI,Included,Passed all validation rules,1005
-DTE,Included,Passed all validation rules,1005
-DUK,Included,Passed all validation rules,1005
-DD,Included,Passed all validation rules,1005
-ETN,Included,Passed all validation rules,1005
-EBAY,Included,Passed all validation rules,1005
-ECHO,Included,Passed all validation rules,1005
-ECL,Included,Passed all validation rules,1005
-EIX,Included,Passed all validation rules,1005
-EW,Included,Passed all validation rules,1005
-ELV,Included,Passed all validation rules,1005
-EME,Included,Passed all validation rules,1005
-EMR,Included,Passed all validation rules,1005
-ETR,Included,Passed all validation rules,1005
-EOG,Included,Passed all validation rules,1005
-EQT,Included,Passed all validation rules,1005
-EFX,Included,Passed all validation rules,1005
-EQIX,Included,Passed all validation rules,1005
-ERIE,Included,Passed all validation rules,1005
-ESS,Included,Passed all validation rules,1005
-EL,Included,Passed all validation rules,1005
-EG,Included,Passed all validation rules,1005
-EVRG,Included,Passed all validation rules,1005
-P,Included,Passed all validation rules,1005
-ES,Included,Passed all validation rules,1005
-EXC,Included,Passed all validation rules,1005
-EXE,Excluded,Incomplete history (979 of 1005 days),979
-EXPE,Included,Passed all validation rules,1005
-EXPD,Included,Passed all validation rules,1005
-EXR,Included,Passed all validation rules,1005
-XOM,Included,Passed all validation rules,1005
-FFIV,Included,Passed all validation rules,1005
-FDS,Included,Passed all validation rules,1005
-FICO,Included,Passed all validation rules,1005
-FAST,Included,Passed all validation rules,1005
-FRT,Included,Passed all validation rules,1005
-FDX,Included,Passed all validation rules,1005
-FDXF,Excluded,No price data in the study period,0
+MMM,Included,Passed all checks,1005
+AOS,Included,Passed all checks,1005
+ABT,Included,Passed all checks,1005
+ABBV,Included,Passed all checks,1005
+ACN,Included,Passed all checks,1005
+ADBE,Included,Passed all checks,1005
+AMD,Included,Passed all checks,1005
+AES,Included,Passed all checks,1005
+AFL,Included,Passed all checks,1005
+A,Included,Passed all checks,1005
+APD,Included,Passed all checks,1005
+ABNB,Included,Passed all checks,1005
+AKAM,Included,Passed all checks,1005
+ALB,Included,Passed all checks,1005
+ARE,Included,Passed all checks,1005
+ALGN,Included,Passed all checks,1005
+ALLE,Included,Passed all checks,1005
+LNT,Included,Passed all checks,1005
+ALL,Included,Passed all checks,1005
+GOOGL,Included,Passed all checks,1005
+GOOG,Included,Passed all checks,1005
+MO,Included,Passed all checks,1005
+AMZN,Included,Passed all checks,1005
+AMCR,Included,Passed all checks,1005
+AEE,Included,Passed all checks,1005
+AEP,Included,Passed all checks,1005
+AXP,Included,Passed all checks,1005
+AIG,Included,Passed all checks,1005
+AMT,Included,Passed all checks,1005
+AWK,Included,Passed all checks,1005
+AMP,Included,Passed all checks,1005
+AME,Included,Passed all checks,1005
+AMGN,Included,Passed all checks,1005
+APH,Included,Passed all checks,1005
+ADI,Included,Passed all checks,1005
+AON,Included,Passed all checks,1005
+APA,Included,Passed all checks,1005
+APO,Included,Passed all checks,1005
+AAPL,Included,Passed all checks,1005
+AMAT,Included,Passed all checks,1005
+APP,Excluded,"Incomplete history, starts 2021-04-15",935
+APTV,Included,Passed all checks,1005
+ACGL,Included,Passed all checks,1005
+ADM,Included,Passed all checks,1005
+ARES,Included,Passed all checks,1005
+ANET,Included,Passed all checks,1005
+AJG,Included,Passed all checks,1005
+AIZ,Included,Passed all checks,1005
+T,Included,Passed all checks,1005
+ATO,Included,Passed all checks,1005
+ADSK,Included,Passed all checks,1005
+ADP,Included,Passed all checks,1005
+AZO,Included,Passed all checks,1005
+AVY,Included,Passed all checks,1005
+AXON,Included,Passed all checks,1005
+BKR,Included,Passed all checks,1005
+BALL,Included,Passed all checks,1005
+BAC,Included,Passed all checks,1005
+BAX,Included,Passed all checks,1005
+BDX,Included,Passed all checks,1005
+BRK-B,Included,Passed all checks,1005
+BBY,Included,Passed all checks,1005
+TECH,Included,Passed all checks,1005
+BIIB,Included,Passed all checks,1005
+BLK,Included,Passed all checks,1005
+BX,Included,Passed all checks,1005
+XYZ,Included,Passed all checks,1005
+BE,Included,Passed all checks,1005
+BNY,Included,Passed all checks,1005
+BA,Included,Passed all checks,1005
+BKNG,Included,Passed all checks,1005
+BSX,Included,Passed all checks,1005
+BMY,Included,Passed all checks,1005
+AVGO,Included,Passed all checks,1005
+BR,Included,Passed all checks,1005
+BRO,Included,Passed all checks,1005
+BF-B,Included,Passed all checks,1005
+BG,Included,Passed all checks,1005
+BXP,Included,Passed all checks,1005
+CHRW,Included,Passed all checks,1005
+CDNS,Included,Passed all checks,1005
+CPT,Included,Passed all checks,1005
+COF,Included,Passed all checks,1005
+CAH,Included,Passed all checks,1005
+CCL,Included,Passed all checks,1005
+CARR,Included,Passed all checks,1005
+CVNA,Included,Passed all checks,1005
+CASY,Included,Passed all checks,1005
+CAT,Included,Passed all checks,1005
+CBOE,Included,Passed all checks,1005
+CBRE,Included,Passed all checks,1005
+CDW,Included,Passed all checks,1005
+COR,Included,Passed all checks,1005
+CNC,Included,Passed all checks,1005
+CNP,Included,Passed all checks,1005
+CF,Included,Passed all checks,1005
+CRL,Included,Passed all checks,1005
+SCHW,Included,Passed all checks,1005
+CHTR,Included,Passed all checks,1005
+CVX,Included,Passed all checks,1005
+CMG,Included,Passed all checks,1005
+CB,Included,Passed all checks,1005
+CHD,Included,Passed all checks,1005
+CIEN,Included,Passed all checks,1005
+CI,Included,Passed all checks,1005
+CINF,Included,Passed all checks,1005
+CTAS,Included,Passed all checks,1005
+CSCO,Included,Passed all checks,1005
+C,Included,Passed all checks,1005
+CFG,Included,Passed all checks,1005
+CLX,Included,Passed all checks,1005
+CME,Included,Passed all checks,1005
+CMS,Included,Passed all checks,1005
+KO,Included,Passed all checks,1005
+CTSH,Included,Passed all checks,1005
+COHR,Included,Passed all checks,1005
+COIN,Excluded,"Incomplete history, starts 2021-04-14",936
+CL,Included,Passed all checks,1005
+CMCSA,Included,Passed all checks,1005
+FIX,Included,Passed all checks,1005
+COP,Included,Passed all checks,1005
+ED,Included,Passed all checks,1005
+STZ,Included,Passed all checks,1005
+CEG,Excluded,"Incomplete history, starts 2022-01-19",742
+COO,Included,Passed all checks,1005
+CPRT,Included,Passed all checks,1005
+GLW,Included,Passed all checks,1005
+CPAY,Included,Passed all checks,1005
+CSGP,Included,Passed all checks,1005
+COST,Included,Passed all checks,1005
+CRH,Included,Passed all checks,1005
+CRWD,Included,Passed all checks,1005
+CCI,Included,Passed all checks,1005
+CSX,Included,Passed all checks,1005
+CMI,Included,Passed all checks,1005
+CVS,Included,Passed all checks,1005
+DHR,Included,Passed all checks,1005
+DRI,Included,Passed all checks,1005
+DDOG,Included,Passed all checks,1005
+DVA,Included,Passed all checks,1005
+DECK,Included,Passed all checks,1005
+DE,Included,Passed all checks,1005
+DELL,Included,Passed all checks,1005
+DAL,Included,Passed all checks,1005
+DVN,Included,Passed all checks,1005
+DXCM,Included,Passed all checks,1005
+FANG,Included,Passed all checks,1005
+DLR,Included,Passed all checks,1005
+DG,Included,Passed all checks,1005
+DLTR,Included,Passed all checks,1005
+D,Included,Passed all checks,1005
+DPZ,Included,Passed all checks,1005
+DASH,Included,Passed all checks,1005
+DOV,Included,Passed all checks,1005
+DOW,Included,Passed all checks,1005
+DHI,Included,Passed all checks,1005
+DTE,Included,Passed all checks,1005
+DUK,Included,Passed all checks,1005
+DD,Included,Passed all checks,1005
+ETN,Included,Passed all checks,1005
+EBAY,Included,Passed all checks,1005
+ECHO,Included,Passed all checks,1005
+ECL,Included,Passed all checks,1005
+EIX,Included,Passed all checks,1005
+EW,Included,Passed all checks,1005
+ELV,Included,Passed all checks,1005
+EME,Included,Passed all checks,1005
+EMR,Included,Passed all checks,1005
+ETR,Included,Passed all checks,1005
+EOG,Included,Passed all checks,1005
+EQT,Included,Passed all checks,1005
+EFX,Included,Passed all checks,1005
+EQIX,Included,Passed all checks,1005
+ERIE,Included,Passed all checks,1005
+ESS,Included,Passed all checks,1005
+EL,Included,Passed all checks,1005
+EG,Included,Passed all checks,1005
+EVRG,Included,Passed all checks,1005
+P,Included,Passed all checks,1005
+ES,Included,Passed all checks,1005
+EXC,Included,Passed all checks,1005
+EXE,Excluded,"Incomplete history, starts 2021-02-10",979
+EXPE,Included,Passed all checks,1005
+EXPD,Included,Passed all checks,1005
+EXR,Included,Passed all checks,1005
+XOM,Included,Passed all checks,1005
+FFIV,Included,Passed all checks,1005
+FDS,Included,Passed all checks,1005
+FICO,Included,Passed all checks,1005
+FAST,Included,Passed all checks,1005
+FRT,Included,Passed all checks,1005
+FDX,Included,Passed all checks,1005
+FDXF,Excluded,No price data,0
 FERG,Excluded,Zero-volume days (27),1005
-FIS,Included,Passed all validation rules,1005
-FITB,Included,Passed all validation rules,1005
-FSLR,Included,Passed all validation rules,1005
-FE,Included,Passed all validation rules,1005
-FISV,Included,Passed all validation rules,1005
-FLEX,Included,Passed all validation rules,1005
-F,Included,Passed all validation rules,1005
-FTNT,Included,Passed all validation rules,1005
-FTV,Included,Passed all validation rules,1005
-FOXA,Included,Passed all validation rules,1005
-FOX,Included,Passed all validation rules,1005
-BEN,Included,Passed all validation rules,1005
-FCX,Included,Passed all validation rules,1005
-GRMN,Included,Passed all validation rules,1005
-IT,Included,Passed all validation rules,1005
-GE,Included,Passed all validation rules,1005
-GEHC,Excluded,Incomplete history (513 of 1005 days),513
-GEV,Excluded,Incomplete history (193 of 1005 days),193
-GEN,Included,Passed all validation rules,1005
-GNRC,Included,Passed all validation rules,1005
-GD,Included,Passed all validation rules,1005
-GIS,Included,Passed all validation rules,1005
-GM,Included,Passed all validation rules,1005
-GPC,Included,Passed all validation rules,1005
-GILD,Included,Passed all validation rules,1005
-GPN,Included,Passed all validation rules,1005
-GL,Included,Passed all validation rules,1005
-GDDY,Included,Passed all validation rules,1005
-GS,Included,Passed all validation rules,1005
-HAL,Included,Passed all validation rules,1005
-HIG,Included,Passed all validation rules,1005
-HAS,Included,Passed all validation rules,1005
-HCA,Included,Passed all validation rules,1005
-DOC,Included,Passed all validation rules,1005
-HSIC,Included,Passed all validation rules,1005
-HSY,Included,Passed all validation rules,1005
-HPE,Included,Passed all validation rules,1005
-HLT,Included,Passed all validation rules,1005
-HD,Included,Passed all validation rules,1005
-HONA,Excluded,No price data in the study period,0
-HON,Included,Passed all validation rules,1005
-HRL,Included,Passed all validation rules,1005
-HST,Included,Passed all validation rules,1005
-HWM,Included,Passed all validation rules,1005
-HPQ,Included,Passed all validation rules,1005
-HUBB,Included,Passed all validation rules,1005
-HUM,Included,Passed all validation rules,1005
-HBAN,Included,Passed all validation rules,1005
-HII,Included,Passed all validation rules,1005
-IBM,Included,Passed all validation rules,1005
-IEX,Included,Passed all validation rules,1005
-IDXX,Included,Passed all validation rules,1005
-ITW,Included,Passed all validation rules,1005
-ILMN,Included,Passed all validation rules,1005
-INCY,Included,Passed all validation rules,1005
-IR,Included,Passed all validation rules,1005
-PODD,Included,Passed all validation rules,1005
-INTC,Included,Passed all validation rules,1005
-IBKR,Included,Passed all validation rules,1005
-ICE,Included,Passed all validation rules,1005
-IFF,Included,Passed all validation rules,1005
-IP,Included,Passed all validation rules,1005
-INTU,Included,Passed all validation rules,1005
-ISRG,Included,Passed all validation rules,1005
-IVZ,Included,Passed all validation rules,1005
-INVH,Included,Passed all validation rules,1005
-IQV,Included,Passed all validation rules,1005
-IRM,Included,Passed all validation rules,1005
-JBHT,Included,Passed all validation rules,1005
-JBL,Included,Passed all validation rules,1005
-JKHY,Included,Passed all validation rules,1005
-J,Included,Passed all validation rules,1005
-JNJ,Included,Passed all validation rules,1005
-JCI,Included,Passed all validation rules,1005
-JPM,Included,Passed all validation rules,1005
-KDP,Included,Passed all validation rules,1005
-KEY,Included,Passed all validation rules,1005
-KEYS,Included,Passed all validation rules,1005
-KMB,Included,Passed all validation rules,1005
-KIM,Included,Passed all validation rules,1005
-KMI,Included,Passed all validation rules,1005
-KKR,Included,Passed all validation rules,1005
-KLAC,Included,Passed all validation rules,1005
-KHC,Included,Passed all validation rules,1005
-KR,Included,Passed all validation rules,1005
-LHX,Included,Passed all validation rules,1005
-LH,Included,Passed all validation rules,1005
-LRCX,Included,Passed all validation rules,1005
-LVS,Included,Passed all validation rules,1005
-LDOS,Included,Passed all validation rules,1005
-LEN,Included,Passed all validation rules,1005
-LII,Included,Passed all validation rules,1005
-LLY,Included,Passed all validation rules,1005
-LIN,Included,Passed all validation rules,1005
-LYV,Included,Passed all validation rules,1005
-LMT,Included,Passed all validation rules,1005
-L,Included,Passed all validation rules,1005
-LOW,Included,Passed all validation rules,1005
-LULU,Included,Passed all validation rules,1005
-LITE,Included,Passed all validation rules,1005
-LYB,Included,Passed all validation rules,1005
-MTB,Included,Passed all validation rules,1005
-MPC,Included,Passed all validation rules,1005
-MAR,Included,Passed all validation rules,1005
-MRSH,Included,Passed all validation rules,1005
-MLM,Included,Passed all validation rules,1005
-MRVL,Included,Passed all validation rules,1005
-MAS,Included,Passed all validation rules,1005
-MA,Included,Passed all validation rules,1005
-MKC,Included,Passed all validation rules,1005
-MCD,Included,Passed all validation rules,1005
-MCK,Included,Passed all validation rules,1005
-MDT,Included,Passed all validation rules,1005
-MRK,Included,Passed all validation rules,1005
-META,Included,Passed all validation rules,1005
-MET,Included,Passed all validation rules,1005
-MTD,Included,Passed all validation rules,1005
-MGM,Included,Passed all validation rules,1005
-MCHP,Included,Passed all validation rules,1005
-MU,Included,Passed all validation rules,1005
-MSFT,Included,Passed all validation rules,1005
-MAA,Included,Passed all validation rules,1005
-MRNA,Included,Passed all validation rules,1005
-MDLZ,Included,Passed all validation rules,1005
-MPWR,Included,Passed all validation rules,1005
-MNST,Included,Passed all validation rules,1005
-MCO,Included,Passed all validation rules,1005
-MS,Included,Passed all validation rules,1005
-MOS,Included,Passed all validation rules,1005
-MSI,Included,Passed all validation rules,1005
-MSCI,Included,Passed all validation rules,1005
-NDAQ,Included,Passed all validation rules,1005
-NTAP,Included,Passed all validation rules,1005
-NFLX,Included,Passed all validation rules,1005
-NEM,Included,Passed all validation rules,1005
-NWSA,Included,Passed all validation rules,1005
-NWS,Included,Passed all validation rules,1005
-NEE,Included,Passed all validation rules,1005
-NKE,Included,Passed all validation rules,1005
-NI,Included,Passed all validation rules,1005
-NDSN,Included,Passed all validation rules,1005
-NSC,Included,Passed all validation rules,1005
-NTRS,Included,Passed all validation rules,1005
-NOC,Included,Passed all validation rules,1005
-NCLH,Included,Passed all validation rules,1005
-NRG,Included,Passed all validation rules,1005
-NUE,Included,Passed all validation rules,1005
-NVDA,Included,Passed all validation rules,1005
-NVR,Included,Passed all validation rules,1005
-NXPI,Included,Passed all validation rules,1005
-ORLY,Included,Passed all validation rules,1005
-OXY,Included,Passed all validation rules,1005
-OKTA,Included,Passed all validation rules,1005
-ODFL,Included,Passed all validation rules,1005
-OMC,Included,Passed all validation rules,1005
-ON,Included,Passed all validation rules,1005
-OKE,Included,Passed all validation rules,1005
-ORCL,Included,Passed all validation rules,1005
-OTIS,Included,Passed all validation rules,1005
-PCAR,Included,Passed all validation rules,1005
-PKG,Included,Passed all validation rules,1005
-PLTR,Included,Passed all validation rules,1005
-PANW,Included,Passed all validation rules,1005
-PH,Included,Passed all validation rules,1005
-PAYX,Included,Passed all validation rules,1005
-PYPL,Included,Passed all validation rules,1005
-PNR,Included,Passed all validation rules,1005
-PEP,Included,Passed all validation rules,1005
-PFE,Included,Passed all validation rules,1005
-PCG,Included,Passed all validation rules,1005
-PM,Included,Passed all validation rules,1005
-PSX,Included,Passed all validation rules,1005
-PNW,Included,Passed all validation rules,1005
-PNC,Included,Passed all validation rules,1005
-PPG,Included,Passed all validation rules,1005
-PPL,Included,Passed all validation rules,1005
-PFG,Included,Passed all validation rules,1005
-PG,Included,Passed all validation rules,1005
-PGR,Included,Passed all validation rules,1005
-PLD,Included,Passed all validation rules,1005
-PRU,Included,Passed all validation rules,1005
-PTC,Included,Passed all validation rules,1005
-PEG,Included,Passed all validation rules,1005
-PSA,Included,Passed all validation rules,1005
-PHM,Included,Passed all validation rules,1005
-Q,Excluded,No price data in the study period,0
-QCOM,Included,Passed all validation rules,1005
-PWR,Included,Passed all validation rules,1005
-DGX,Included,Passed all validation rules,1005
-RL,Included,Passed all validation rules,1005
-RJF,Included,Passed all validation rules,1005
-RDDT,Excluded,Incomplete history (197 of 1005 days),197
-O,Included,Passed all validation rules,1005
-REG,Included,Passed all validation rules,1005
-REGN,Included,Passed all validation rules,1005
-RF,Included,Passed all validation rules,1005
-RSG,Included,Passed all validation rules,1005
-RMD,Included,Passed all validation rules,1005
-RVTY,Included,Passed all validation rules,1005
-HOOD,Excluded,Incomplete history (862 of 1005 days),862
-ROK,Included,Passed all validation rules,1005
-ROL,Included,Passed all validation rules,1005
-ROP,Included,Passed all validation rules,1005
-ROST,Included,Passed all validation rules,1005
-RCL,Included,Passed all validation rules,1005
-RTX,Included,Passed all validation rules,1005
-SPGI,Included,Passed all validation rules,1005
-CRM,Included,Passed all validation rules,1005
-SNDK,Excluded,No price data in the study period,0
-SBAC,Included,Passed all validation rules,1005
-SLB,Included,Passed all validation rules,1005
-STX,Included,Passed all validation rules,1005
-SRE,Included,Passed all validation rules,1005
-NOW,Included,Passed all validation rules,1005
-SHW,Included,Passed all validation rules,1005
-SPG,Included,Passed all validation rules,1005
-SKYD,Included,Passed all validation rules,1005
-SWKS,Included,Passed all validation rules,1005
-SJM,Included,Passed all validation rules,1005
+FIS,Included,Passed all checks,1005
+FITB,Included,Passed all checks,1005
+FSLR,Included,Passed all checks,1005
+FE,Included,Passed all checks,1005
+FISV,Included,Passed all checks,1005
+FLEX,Included,Passed all checks,1005
+F,Included,Passed all checks,1005
+FTNT,Included,Passed all checks,1005
+FTV,Included,Passed all checks,1005
+FOXA,Included,Passed all checks,1005
+FOX,Included,Passed all checks,1005
+BEN,Included,Passed all checks,1005
+FCX,Included,Passed all checks,1005
+GRMN,Included,Passed all checks,1005
+IT,Included,Passed all checks,1005
+GE,Included,Passed all checks,1005
+GEHC,Excluded,"Incomplete history, starts 2022-12-15",513
+GEV,Excluded,"Incomplete history, starts 2024-03-27",193
+GEN,Included,Passed all checks,1005
+GNRC,Included,Passed all checks,1005
+GD,Included,Passed all checks,1005
+GIS,Included,Passed all checks,1005
+GM,Included,Passed all checks,1005
+GPC,Included,Passed all checks,1005
+GILD,Included,Passed all checks,1005
+GPN,Included,Passed all checks,1005
+GL,Included,Passed all checks,1005
+GDDY,Included,Passed all checks,1005
+GS,Included,Passed all checks,1005
+HAL,Included,Passed all checks,1005
+HIG,Included,Passed all checks,1005
+HAS,Included,Passed all checks,1005
+HCA,Included,Passed all checks,1005
+DOC,Included,Passed all checks,1005
+HSIC,Included,Passed all checks,1005
+HSY,Included,Passed all checks,1005
+HPE,Included,Passed all checks,1005
+HLT,Included,Passed all checks,1005
+HD,Included,Passed all checks,1005
+HONA,Excluded,No price data,0
+HON,Included,Passed all checks,1005
+HRL,Included,Passed all checks,1005
+HST,Included,Passed all checks,1005
+HWM,Included,Passed all checks,1005
+HPQ,Included,Passed all checks,1005
+HUBB,Included,Passed all checks,1005
+HUM,Included,Passed all checks,1005
+HBAN,Included,Passed all checks,1005
+HII,Included,Passed all checks,1005
+IBM,Included,Passed all checks,1005
+IEX,Included,Passed all checks,1005
+IDXX,Included,Passed all checks,1005
+ITW,Included,Passed all checks,1005
+ILMN,Included,Passed all checks,1005
+INCY,Included,Passed all checks,1005
+IR,Included,Passed all checks,1005
+PODD,Included,Passed all checks,1005
+INTC,Included,Passed all checks,1005
+IBKR,Included,Passed all checks,1005
+ICE,Included,Passed all checks,1005
+IFF,Included,Passed all checks,1005
+IP,Included,Passed all checks,1005
+INTU,Included,Passed all checks,1005
+ISRG,Included,Passed all checks,1005
+IVZ,Included,Passed all checks,1005
+INVH,Included,Passed all checks,1005
+IQV,Included,Passed all checks,1005
+IRM,Included,Passed all checks,1005
+JBHT,Included,Passed all checks,1005
+JBL,Included,Passed all checks,1005
+JKHY,Included,Passed all checks,1005
+J,Included,Passed all checks,1005
+JNJ,Included,Passed all checks,1005
+JCI,Included,Passed all checks,1005
+JPM,Included,Passed all checks,1005
+KDP,Included,Passed all checks,1005
+KEY,Included,Passed all checks,1005
+KEYS,Included,Passed all checks,1005
+KMB,Included,Passed all checks,1005
+KIM,Included,Passed all checks,1005
+KMI,Included,Passed all checks,1005
+KKR,Included,Passed all checks,1005
+KLAC,Included,Passed all checks,1005
+KHC,Included,Passed all checks,1005
+KR,Included,Passed all checks,1005
+LHX,Included,Passed all checks,1005
+LH,Included,Passed all checks,1005
+LRCX,Included,Passed all checks,1005
+LVS,Included,Passed all checks,1005
+LDOS,Included,Passed all checks,1005
+LEN,Included,Passed all checks,1005
+LII,Included,Passed all checks,1005
+LLY,Included,Passed all checks,1005
+LIN,Included,Passed all checks,1005
+LYV,Included,Passed all checks,1005
+LMT,Included,Passed all checks,1005
+L,Included,Passed all checks,1005
+LOW,Included,Passed all checks,1005
+LULU,Included,Passed all checks,1005
+LITE,Included,Passed all checks,1005
+LYB,Included,Passed all checks,1005
+MTB,Included,Passed all checks,1005
+MPC,Included,Passed all checks,1005
+MAR,Included,Passed all checks,1005
+MRSH,Included,Passed all checks,1005
+MLM,Included,Passed all checks,1005
+MRVL,Included,Passed all checks,1005
+MAS,Included,Passed all checks,1005
+MA,Included,Passed all checks,1005
+MKC,Included,Passed all checks,1005
+MCD,Included,Passed all checks,1005
+MCK,Included,Passed all checks,1005
+MDT,Included,Passed all checks,1005
+MRK,Included,Passed all checks,1005
+META,Included,Passed all checks,1005
+MET,Included,Passed all checks,1005
+MTD,Included,Passed all checks,1005
+MGM,Included,Passed all checks,1005
+MCHP,Included,Passed all checks,1005
+MU,Included,Passed all checks,1005
+MSFT,Included,Passed all checks,1005
+MAA,Included,Passed all checks,1005
+MRNA,Included,Passed all checks,1005
+MDLZ,Included,Passed all checks,1005
+MPWR,Included,Passed all checks,1005
+MNST,Included,Passed all checks,1005
+MCO,Included,Passed all checks,1005
+MS,Included,Passed all checks,1005
+MOS,Included,Passed all checks,1005
+MSI,Included,Passed all checks,1005
+MSCI,Included,Passed all checks,1005
+NDAQ,Included,Passed all checks,1005
+NTAP,Included,Passed all checks,1005
+NFLX,Included,Passed all checks,1005
+NEM,Included,Passed all checks,1005
+NWSA,Included,Passed all checks,1005
+NWS,Included,Passed all checks,1005
+NEE,Included,Passed all checks,1005
+NKE,Included,Passed all checks,1005
+NI,Included,Passed all checks,1005
+NDSN,Included,Passed all checks,1005
+NSC,Included,Passed all checks,1005
+NTRS,Included,Passed all checks,1005
+NOC,Included,Passed all checks,1005
+NCLH,Included,Passed all checks,1005
+NRG,Included,Passed all checks,1005
+NUE,Included,Passed all checks,1005
+NVDA,Included,Passed all checks,1005
+NVR,Included,Passed all checks,1005
+NXPI,Included,Passed all checks,1005
+ORLY,Included,Passed all checks,1005
+OXY,Included,Passed all checks,1005
+OKTA,Included,Passed all checks,1005
+ODFL,Included,Passed all checks,1005
+OMC,Included,Passed all checks,1005
+ON,Included,Passed all checks,1005
+OKE,Included,Passed all checks,1005
+ORCL,Included,Passed all checks,1005
+OTIS,Included,Passed all checks,1005
+PCAR,Included,Passed all checks,1005
+PKG,Included,Passed all checks,1005
+PLTR,Included,Passed all checks,1005
+PANW,Included,Passed all checks,1005
+PH,Included,Passed all checks,1005
+PAYX,Included,Passed all checks,1005
+PYPL,Included,Passed all checks,1005
+PNR,Included,Passed all checks,1005
+PEP,Included,Passed all checks,1005
+PFE,Included,Passed all checks,1005
+PCG,Included,Passed all checks,1005
+PM,Included,Passed all checks,1005
+PSX,Included,Passed all checks,1005
+PNW,Included,Passed all checks,1005
+PNC,Included,Passed all checks,1005
+PPG,Included,Passed all checks,1005
+PPL,Included,Passed all checks,1005
+PFG,Included,Passed all checks,1005
+PG,Included,Passed all checks,1005
+PGR,Included,Passed all checks,1005
+PLD,Included,Passed all checks,1005
+PRU,Included,Passed all checks,1005
+PTC,Included,Passed all checks,1005
+PEG,Included,Passed all checks,1005
+PSA,Included,Passed all checks,1005
+PHM,Included,Passed all checks,1005
+Q,Excluded,No price data,0
+QCOM,Included,Passed all checks,1005
+PWR,Included,Passed all checks,1005
+DGX,Included,Passed all checks,1005
+RL,Included,Passed all checks,1005
+RJF,Included,Passed all checks,1005
+RDDT,Excluded,"Incomplete history, starts 2024-03-21",197
+O,Included,Passed all checks,1005
+REG,Included,Passed all checks,1005
+REGN,Included,Passed all checks,1005
+RF,Included,Passed all checks,1005
+RSG,Included,Passed all checks,1005
+RMD,Included,Passed all checks,1005
+RVTY,Included,Passed all checks,1005
+HOOD,Excluded,"Incomplete history, starts 2021-07-29",862
+ROK,Included,Passed all checks,1005
+ROL,Included,Passed all checks,1005
+ROP,Included,Passed all checks,1005
+ROST,Included,Passed all checks,1005
+RCL,Included,Passed all checks,1005
+RTX,Included,Passed all checks,1005
+SPGI,Included,Passed all checks,1005
+CRM,Included,Passed all checks,1005
+SNDK,Excluded,No price data,0
+SBAC,Included,Passed all checks,1005
+SLB,Included,Passed all checks,1005
+STX,Included,Passed all checks,1005
+SRE,Included,Passed all checks,1005
+NOW,Included,Passed all checks,1005
+SHW,Included,Passed all checks,1005
+SPG,Included,Passed all checks,1005
+SKYD,Included,Passed all checks,1005
+SWKS,Included,Passed all checks,1005
+SJM,Included,Passed all checks,1005
 SW,Excluded,Zero-volume days (424),1005
-SNA,Included,Passed all validation rules,1005
-SOLV,Excluded,Incomplete history (194 of 1005 days),194
-SO,Included,Passed all validation rules,1005
-LUV,Included,Passed all validation rules,1005
-SWK,Included,Passed all validation rules,1005
-SBUX,Included,Passed all validation rules,1005
-STT,Included,Passed all validation rules,1005
-STLD,Included,Passed all validation rules,1005
-STE,Included,Passed all validation rules,1005
-SYK,Included,Passed all validation rules,1005
-SMCI,Included,Passed all validation rules,1005
-SYF,Included,Passed all validation rules,1005
-SNPS,Included,Passed all validation rules,1005
-SYY,Included,Passed all validation rules,1005
-TMUS,Included,Passed all validation rules,1005
-TROW,Included,Passed all validation rules,1005
-TTWO,Included,Passed all validation rules,1005
-TPR,Included,Passed all validation rules,1005
-TRGP,Included,Passed all validation rules,1005
-TGT,Included,Passed all validation rules,1005
-TEL,Included,Passed all validation rules,1005
-TDY,Included,Passed all validation rules,1005
-TER,Included,Passed all validation rules,1005
-TSLA,Included,Passed all validation rules,1005
-TXN,Included,Passed all validation rules,1005
-TPL,Included,Passed all validation rules,1005
-TXT,Included,Passed all validation rules,1005
-TMO,Included,Passed all validation rules,1005
-TJX,Included,Passed all validation rules,1005
-TKO,Included,Passed all validation rules,1005
-TSCO,Included,Passed all validation rules,1005
-TT,Included,Passed all validation rules,1005
-TDG,Included,Passed all validation rules,1005
-TRV,Included,Passed all validation rules,1005
-TRMB,Included,Passed all validation rules,1005
-TFC,Included,Passed all validation rules,1005
-TWLO,Included,Passed all validation rules,1005
-TYL,Included,Passed all validation rules,1005
-TSN,Included,Passed all validation rules,1005
-USB,Included,Passed all validation rules,1005
-UBER,Included,Passed all validation rules,1005
-UDR,Included,Passed all validation rules,1005
-ULTA,Included,Passed all validation rules,1005
-UNP,Included,Passed all validation rules,1005
-UAL,Included,Passed all validation rules,1005
-UPS,Included,Passed all validation rules,1005
-URI,Included,Passed all validation rules,1005
-UNH,Included,Passed all validation rules,1005
-UHS,Included,Passed all validation rules,1005
-VLO,Included,Passed all validation rules,1005
-VEEV,Included,Passed all validation rules,1005
-VTR,Included,Passed all validation rules,1005
-VLTO,Excluded,Incomplete history (313 of 1005 days),313
-VRSN,Included,Passed all validation rules,1005
-VRSK,Included,Passed all validation rules,1005
-VZ,Included,Passed all validation rules,1005
-VRTX,Included,Passed all validation rules,1005
-VRT,Included,Passed all validation rules,1005
-VTRS,Included,Passed all validation rules,1005
-VICI,Included,Passed all validation rules,1005
-V,Included,Passed all validation rules,1005
-VST,Included,Passed all validation rules,1005
-VMRK,Included,Passed all validation rules,1005
-VMC,Included,Passed all validation rules,1005
-VYLR,Excluded,No price data in the study period,0
-WRB,Included,Passed all validation rules,1005
-GWW,Included,Passed all validation rules,1005
-WAB,Included,Passed all validation rules,1005
-WMT,Included,Passed all validation rules,1005
-DIS,Included,Passed all validation rules,1005
-WM,Included,Passed all validation rules,1005
-WAT,Included,Passed all validation rules,1005
-WEC,Included,Passed all validation rules,1005
-WFC,Included,Passed all validation rules,1005
-WELL,Included,Passed all validation rules,1005
-WST,Included,Passed all validation rules,1005
-WDC,Included,Passed all validation rules,1005
-WY,Included,Passed all validation rules,1005
-WSM,Included,Passed all validation rules,1005
-WMB,Included,Passed all validation rules,1005
-WTW,Included,Passed all validation rules,1005
-WDAY,Included,Passed all validation rules,1005
-WYNN,Included,Passed all validation rules,1005
-XEL,Included,Passed all validation rules,1005
-XYL,Included,Passed all validation rules,1005
-YUM,Included,Passed all validation rules,1005
-ZBRA,Included,Passed all validation rules,1005
-ZBH,Included,Passed all validation rules,1005
-ZTS,Included,Passed all validation rules,1005
+SNA,Included,Passed all checks,1005
+SOLV,Excluded,"Incomplete history, starts 2024-03-26",194
+SO,Included,Passed all checks,1005
+LUV,Included,Passed all checks,1005
+SWK,Included,Passed all checks,1005
+SBUX,Included,Passed all checks,1005
+STT,Included,Passed all checks,1005
+STLD,Included,Passed all checks,1005
+STE,Included,Passed all checks,1005
+SYK,Included,Passed all checks,1005
+SMCI,Included,Passed all checks,1005
+SYF,Included,Passed all checks,1005
+SNPS,Included,Passed all checks,1005
+SYY,Included,Passed all checks,1005
+TMUS,Included,Passed all checks,1005
+TROW,Included,Passed all checks,1005
+TTWO,Included,Passed all checks,1005
+TPR,Included,Passed all checks,1005
+TRGP,Included,Passed all checks,1005
+TGT,Included,Passed all checks,1005
+TEL,Included,Passed all checks,1005
+TDY,Included,Passed all checks,1005
+TER,Included,Passed all checks,1005
+TSLA,Included,Passed all checks,1005
+TXN,Included,Passed all checks,1005
+TPL,Included,Passed all checks,1005
+TXT,Included,Passed all checks,1005
+TMO,Included,Passed all checks,1005
+TJX,Included,Passed all checks,1005
+TKO,Included,Passed all checks,1005
+TSCO,Included,Passed all checks,1005
+TT,Included,Passed all checks,1005
+TDG,Included,Passed all checks,1005
+TRV,Included,Passed all checks,1005
+TRMB,Included,Passed all checks,1005
+TFC,Included,Passed all checks,1005
+TWLO,Included,Passed all checks,1005
+TYL,Included,Passed all checks,1005
+TSN,Included,Passed all checks,1005
+USB,Included,Passed all checks,1005
+UBER,Included,Passed all checks,1005
+UDR,Included,Passed all checks,1005
+ULTA,Included,Passed all checks,1005
+UNP,Included,Passed all checks,1005
+UAL,Included,Passed all checks,1005
+UPS,Included,Passed all checks,1005
+URI,Included,Passed all checks,1005
+UNH,Included,Passed all checks,1005
+UHS,Included,Passed all checks,1005
+VLO,Included,Passed all checks,1005
+VEEV,Included,Passed all checks,1005
+VTR,Included,Passed all checks,1005
+VLTO,Excluded,"Incomplete history, starts 2023-10-04",313
+VRSN,Included,Passed all checks,1005
+VRSK,Included,Passed all checks,1005
+VZ,Included,Passed all checks,1005
+VRTX,Included,Passed all checks,1005
+VRT,Included,Passed all checks,1005
+VTRS,Included,Passed all checks,1005
+VICI,Included,Passed all checks,1005
+V,Included,Passed all checks,1005
+VST,Included,Passed all checks,1005
+VMRK,Included,Passed all checks,1005
+VMC,Included,Passed all checks,1005
+VYLR,Excluded,No price data,0
+WRB,Included,Passed all checks,1005
+GWW,Included,Passed all checks,1005
+WAB,Included,Passed all checks,1005
+WMT,Included,Passed all checks,1005
+DIS,Included,Passed all checks,1005
+WM,Included,Passed all checks,1005
+WAT,Included,Passed all checks,1005
+WEC,Included,Passed all checks,1005
+WFC,Included,Passed all checks,1005
+WELL,Included,Passed all checks,1005
+WST,Included,Passed all checks,1005
+WDC,Included,Passed all checks,1005
+WY,Included,Passed all checks,1005
+WSM,Included,Passed all checks,1005
+WMB,Included,Passed all checks,1005
+WTW,Included,Passed all checks,1005
+WDAY,Included,Passed all checks,1005
+WYNN,Included,Passed all checks,1005
+XEL,Included,Passed all checks,1005
+XYL,Included,Passed all checks,1005
+YUM,Included,Passed all checks,1005
+ZBRA,Included,Passed all checks,1005
+ZBH,Included,Passed all checks,1005
+ZTS,Included,Passed all checks,1005

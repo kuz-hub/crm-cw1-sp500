@@ -41,17 +41,15 @@ Monetary removed.
 | Chosen cluster counts | k = **5** (risk and return), k = **4** (trading activity) |
 | Reproducibility | random seed 42, `n_init=20`; every window, threshold and seed is set in one configuration cell |
 
-All of these values are written to `data/processed/report_headline_numbers.csv` by the notebook.
-
 ## Repository layout
 
 | Path | Contents |
 |---|---|
 | `CRM_CW1.ipynb` | The whole analysis: Task 1, Task 2 and the Task 3 evidence |
 | `data/raw/` | Unedited snapshots: ticker list, `adj_close_daily.csv`, `close_daily.csv`, `volume_daily.csv` |
-| `data/processed/` | Inclusion and exclusion log, acquisition log, feature table, cluster assignments, cluster and sector profiles, correlation table, headline numbers |
-| `data/mart/` | The Task 3 data mart, materialised as a star schema (4 dimensions, 4 fact tables) |
-| `outputs/` | Figures: feature distributions, dendrograms, k-selection, cluster plots, sector composition, RFM correlations, Monetary-removal sensitivity |
+| `data/processed/` | Inclusion and exclusion log, feature table, cluster assignments, cluster and sector profiles, correlation table |
+| `data/mart/` | The Task 3 data mart: 3 dimension tables and 3 fact tables |
+| `outputs/` | Figures: feature distributions, dendrograms, k-selection, cluster plots, RFM correlations, sector mix of each clustering solution |
 
 ### Task 3 data mart (`data/mart/`)
 
@@ -59,9 +57,7 @@ All of these values are written to `data/processed/report_headline_numbers.csv` 
 |---|---|
 | `dim_date` | one row per trading date |
 | `dim_share` | one row per ticker, with sector and inclusion status |
-| `dim_benchmark` | one row per benchmark series |
 | `dim_calculation_run` | one row per run: provenance, windows, threshold, seed, package versions |
-| `fact_daily_market_rfm_window` | share × trading date (the 60-session RFM window) |
 | `fact_weekly_return` | share × Friday week-ending date, with the aligned benchmark return |
 | `fact_share_features` | share × run — the five derived features |
 | `fact_cluster_assignment` | share × clustering solution × run |
