@@ -1,7 +1,10 @@
-pandas==2.2.3
-numpy
-yfinance==0.2.66
-matplotlib
-seaborn
-scipy
-scikit-learn
+# Versions used for the committed run are printed in the notebook's first cell
+# and stored in data/mart/dim_calculation_run.csv.
+pandas>=2.2
+numpy>=1.26
+yfinance>=0.2.60
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+scikit-learn>=1.4
+lxml>=5.0          # required by pandas.read_html for the Wikipedia ticker list

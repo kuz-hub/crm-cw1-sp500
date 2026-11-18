@@ -1,0 +1,25 @@
+Item,Value
+Ticker source,data/raw/tickers_2026-11-08.csv (saved copy)
+Ticker retrieval date,2026-11-08
+Price source,saved copy in data/raw/ (snapshot taken on 2026-11-08)
+Study period,2021-01-01 to 2025-01-01 (end exclusive)
+Trading sessions,1005
+Observation date,2024-12-31
+Shares downloaded,503
+Shares excluded,17
+Shares in the common set,486
+Aligned weekly observations,207
+Median mean weekly return,0.00262
+Median weekly beta,0.951
+Median Recency (calendar days),11.0
+Median Frequency (of 60 sessions),3.0
+Median Monetary (USD billions),16.7
+"k, risk and return",5
+"k, trading activity",4
+"ARI Ward against K-Means, risk-return",0.329
+"ARI Ward against K-Means, activity",0.343
+ARI RFM against R and F only,0.203
+ARI risk-return against activity,0.019
+Correlation Recency and Frequency,-0.346
+Correlation Recency and log1p Monetary,0.152
+Correlation Frequency and log1p Monetary,0.013

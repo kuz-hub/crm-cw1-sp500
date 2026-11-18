@@ -1,0 +1,2431 @@
+Run_id,Share_key,Solution,Feature_set,Algorithm,K,Cluster_id
+run_20261118_055638,A,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AAPL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ABBV,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,ABNB,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,ABT,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,ACGL,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,ACN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ADBE,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,ADI,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ADM,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,ADP,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,ADSK,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,AEE,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,AEP,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,AES,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AFL,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,AIG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,AIZ,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,AJG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,AKAM,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ALB,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,ALGN,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,ALL,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,ALLE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AMAT,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,AMCR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AMD,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,AME,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AMGN,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,AMP,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,AMT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AMZN,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,ANET,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,AON,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,AOS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,APA,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,APD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,APH,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,APO,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,APTV,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ARE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ARES,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ATO,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,AVGO,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,AVY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AWK,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,AXON,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,AXP,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,AZO,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,BA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,BAC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,BALL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,BAX,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,BBY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,BDX,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,BE,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,BEN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,BF-B,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,BG,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,BIIB,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,BKNG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,BKR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,BLK,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,BMY,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,BNY,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,BR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,BRK-B,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,BRO,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,BSX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,BX,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,BXP,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,C,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CAH,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CARR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CASY,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CAT,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CB,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CBOE,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CBRE,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CCI,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CCL,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,CDNS,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CDW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CF,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CFG,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CHD,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CHRW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CHTR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CI,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CIEN,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CINF,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CL,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CLX,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CMCSA,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CME,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CMG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CMI,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CMS,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CNC,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CNP,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,COF,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,COHR,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,COO,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,COP,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,COR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,COST,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,CPAY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CPRT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CPT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CRH,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CRL,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,CRM,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,CRWD,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,CSCO,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CSGP,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CSX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CTAS,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CTSH,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,CVNA,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,CVS,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,CVX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,D,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,DAL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,DASH,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,DD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DDOG,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,DE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DECK,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,DELL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,DG,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,DGX,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,DHI,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,DHR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DIS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DLR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DLTR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DOC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DOV,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DOW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DPZ,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,DRI,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,DTE,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,DUK,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,DVA,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,DVN,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,DXCM,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EBAY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ECHO,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ECL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ED,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,EFX,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,EG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,EIX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ELV,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,EME,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,EMR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EOG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,EQIX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EQT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ERIE,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,ES,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,ESS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ETN,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ETR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,EVRG,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,EW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EXC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EXPD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,EXPE,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,EXR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,F,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,FANG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,FAST,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FCX,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,FDS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FDX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FE,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,FFIV,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FICO,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,FIS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FISV,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,FITB,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FIX,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,FLEX,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,FOX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,FOXA,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,FRT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,FSLR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,FTNT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,FTV,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,GD,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,GDDY,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,GE,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,GEN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,GILD,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,GIS,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,GL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,GLW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,GM,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,GNRC,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,GOOG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,GOOGL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,GPC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,GPN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,GRMN,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,GS,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,GWW,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,HAL,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,HAS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HBAN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HCA,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,HD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HIG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,HII,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HLT,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,HON,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HPE,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,HPQ,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HRL,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,HSIC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HST,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,HSY,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,HUBB,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,HUM,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,HWM,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,IBKR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,IBM,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,ICE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,IDXX,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,IEX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,IFF,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ILMN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,INCY,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,INTC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,INTU,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,INVH,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,IP,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,IQV,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,IR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,IRM,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ISRG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,IT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ITW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,IVZ,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,J,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,JBHT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,JBL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,JCI,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,JKHY,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,JNJ,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,JPM,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,KDP,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,KEY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,KEYS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,KHC,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,KIM,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,KKR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,KLAC,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,KMB,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,KMI,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,KO,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,KR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,L,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,LDOS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LEN,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,LH,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LHX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LII,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,LIN,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,LITE,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,LLY,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,LMT,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,LNT,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,LOW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LRCX,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,LULU,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LUV,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LVS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LYB,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,LYV,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,MA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MAA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MAR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,MAS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MCD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MCHP,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,MCK,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,MCO,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,MDLZ,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,MDT,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,MET,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,META,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,MGM,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,MKC,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,MLM,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MMM,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MNST,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,MO,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,MOS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MPC,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,MPWR,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,MRK,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,MRNA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MRSH,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,MRVL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,MS,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,MSCI,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,MSFT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,MSI,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,MTB,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,MTD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,MU,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,NCLH,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,NDAQ,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,NDSN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,NEE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,NEM,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,NFLX,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,NI,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,NKE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,NOC,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,NOW,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,NRG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,NSC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,NTAP,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,NTRS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,NUE,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,NVDA,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,NVR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,NWS,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,NWSA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,NXPI,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,O,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,ODFL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,OKE,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,OKTA,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,OMC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ON,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ORCL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,ORLY,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,OTIS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,OXY,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,P,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PANW,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PAYX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PCAR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PCG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PEG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PEP,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,PFE,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,PFG,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PG,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,PGR,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PH,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PHM,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PKG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PLD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PLTR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PM,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PNC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PNR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PNW,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,PODD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PPG,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PPL,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,PRU,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PSA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PSX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,PTC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,PWR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,PYPL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,QCOM,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,RCL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,REG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,REGN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,RF,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,RJF,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,RL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,RMD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ROK,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ROL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ROP,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ROST,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,RSG,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,RTX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,RVTY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SBAC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SBUX,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SCHW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SHW,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SJM,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,SKYD,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SLB,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,SMCI,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,SNA,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,SNPS,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,SO,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,SPG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,SPGI,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SRE,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,STE,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,STLD,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,STT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,STX,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,STZ,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SWK,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SWKS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SYF,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,SYK,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,SYY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,T,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,TDG,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,TDY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TECH,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TEL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TER,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,TFC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TGT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TJX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,TKO,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,TMO,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TMUS,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,TPL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,TPR,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,TRGP,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,TRMB,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,TROW,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,TRV,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,TSCO,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,TSLA,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,TSN,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,TT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,TTWO,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TWLO,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,TXN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TXT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,TYL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,UAL,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,UBER,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,UDR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,UHS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ULTA,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,UNH,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,UNP,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,UPS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,URI,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,USB,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,V,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VEEV,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,VICI,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VLO,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,VMC,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VMRK,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VRSK,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VRSN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VRT,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,VRTX,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,VST,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,VTR,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VTRS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,VZ,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,WAB,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,WAT,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,WDAY,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,WDC,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,WEC,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,WELL,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,WFC,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,WM,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,WMB,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,WMT,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,WRB,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,WSM,Ward_RiskReturn,Risk and return,Ward,5,2
+run_20261118_055638,WST,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,WTW,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,WY,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,WYNN,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,XEL,Ward_RiskReturn,Risk and return,Ward,5,5
+run_20261118_055638,XOM,Ward_RiskReturn,Risk and return,Ward,5,3
+run_20261118_055638,XYL,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,XYZ,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,YUM,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ZBH,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,ZBRA,Ward_RiskReturn,Risk and return,Ward,5,4
+run_20261118_055638,ZTS,Ward_RiskReturn,Risk and return,Ward,5,1
+run_20261118_055638,A,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AAPL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ABBV,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ABNB,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ABT,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ACGL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ACN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ADBE,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ADI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ADM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ADP,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ADSK,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,AEE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,AEP,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,AES,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AFL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,AIG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,AIZ,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,AJG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,AKAM,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ALB,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ALGN,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ALL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ALLE,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AMAT,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,AMCR,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AMD,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,AME,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,AMGN,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,AMP,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,AMT,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AMZN,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ANET,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,AON,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,AOS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,APA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,APD,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,APH,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,APO,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,APTV,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ARE,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ARES,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,ATO,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,AVGO,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,AVY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AWK,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,AXON,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,AXP,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,AZO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BA,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,BAC,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BALL,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,BAX,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,BBY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,BDX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,BE,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,BEN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,BF-B,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,BG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,BIIB,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,BKNG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BKR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BLK,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,BMY,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,BNY,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BRK-B,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,BRO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BSX,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,BX,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,BXP,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,C,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CAH,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CARR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CASY,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CAT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CB,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CBOE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CBRE,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CCI,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CCL,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,CDNS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CDW,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CF,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CFG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CHD,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CHRW,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CHTR,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CI,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CIEN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CINF,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CLX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CMCSA,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CME,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CMG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CMI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CMS,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CNC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CNP,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,COF,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,COHR,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,COO,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,COP,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,COR,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,COST,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CPAY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CPRT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CPT,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CRH,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CRL,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,CRM,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,CRWD,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,CSCO,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,CSGP,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CSX,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CTAS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,CTSH,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CVNA,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,CVS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,CVX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,D,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,DAL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DASH,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,DD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DDOG,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,DE,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DECK,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DELL,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,DG,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DGX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,DHI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DHR,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DIS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DLR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DLTR,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DOC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DOV,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DOW,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DPZ,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,DRI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DTE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,DUK,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,DVA,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,DVN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,DXCM,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,EBAY,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ECHO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ECL,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ED,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EFX,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,EG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EIX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EL,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ELV,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EME,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,EMR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,EOG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,EQIX,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,EQT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ERIE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ES,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ESS,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ETN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ETR,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EVRG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EW,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,EXC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,EXPD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,EXPE,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,EXR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,F,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,FANG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FAST,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FCX,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,FDS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FDX,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,FE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,FFIV,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,FICO,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,FIS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,FISV,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FITB,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FIX,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,FLEX,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FOX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,FOXA,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,FRT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FSLR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,FTNT,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,FTV,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,GD,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,GDDY,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GE,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GEN,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,GILD,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,GIS,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,GL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,GLW,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GM,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,GNRC,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,GOOG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GOOGL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GPC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,GPN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,GRMN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,GWW,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HAL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HAS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,HBAN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HCA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HD,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HIG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HII,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,HLT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HON,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,HPE,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HPQ,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HRL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,HSIC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,HST,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HSY,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,HUBB,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,HUM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,HWM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,IBKR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,IBM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ICE,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,IDXX,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,IEX,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,IFF,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ILMN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,INCY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,INTC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,INTU,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,INVH,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,IP,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,IQV,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,IR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,IRM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ISRG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,IT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ITW,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,IVZ,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,J,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,JBHT,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,JBL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,JCI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,JKHY,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,JNJ,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,JPM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,KDP,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,KEY,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,KEYS,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,KHC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,KIM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,KKR,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,KLAC,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,KMB,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,KMI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,KO,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,KR,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,L,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LDOS,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LEN,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,LH,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LHX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LII,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,LIN,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LITE,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,LLY,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,LMT,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LNT,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,LOW,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,LRCX,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,LULU,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,LUV,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,LVS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,LYB,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,LYV,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MAA,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MAR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MAS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MCD,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MCHP,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,MCK,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MCO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MDLZ,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MDT,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,MET,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,META,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MGM,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,MKC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MLM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MMM,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,MNST,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MO,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MOS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,MPC,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MPWR,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,MRK,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,MRNA,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,MRSH,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MRVL,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,MS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MSCI,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,MSFT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MSI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MTB,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,MTD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,MU,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,NCLH,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,NDAQ,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NDSN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,NEE,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,NEM,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,NFLX,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,NI,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,NKE,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,NOC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,NOW,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,NRG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NSC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,NTAP,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NTRS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,NUE,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NVDA,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,NVR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NWS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NWSA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,NXPI,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,O,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ODFL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,OKE,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,OKTA,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,OMC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ON,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ORCL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ORLY,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,OTIS,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,OXY,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,P,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,PANW,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PAYX,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PCAR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PCG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PEG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PEP,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PFE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PFG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PGR,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PH,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PHM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PKG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PLD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,PLTR,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,PM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PNC,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PNR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PNW,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PODD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,PPG,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,PPL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PRU,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PSA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PSX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,PTC,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,PWR,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,PYPL,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,QCOM,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,RCL,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,REG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,REGN,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,RF,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,RJF,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,RL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,RMD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ROK,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ROL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ROP,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ROST,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,RSG,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,RTX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,RVTY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SBAC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SBUX,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SCHW,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SHW,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SJM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,SKYD,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SLB,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SMCI,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,SNA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SNPS,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,SO,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,SPG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SPGI,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SRE,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,STE,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,STLD,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,STT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,STX,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,STZ,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SWK,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SWKS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,SYF,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SYK,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,SYY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,T,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,TDG,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TDY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TECH,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TEL,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TER,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,TFC,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TGT,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TJX,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TKO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TMO,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TMUS,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,TPL,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,TPR,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TRGP,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,TRMB,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,TROW,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,TRV,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,TSCO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TSLA,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,TSN,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,TT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TTWO,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TWLO,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,TXN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,TXT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,TYL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,UAL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,UBER,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,UDR,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,UHS,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,ULTA,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,UNH,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,UNP,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,UPS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,URI,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,USB,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,V,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,VEEV,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,VICI,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,VLO,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,VMC,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,VMRK,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,VRSK,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,VRSN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,VRT,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,VRTX,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,VST,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,VTR,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,VTRS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,VZ,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,WAB,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,WAT,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,WDAY,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,WDC,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,WEC,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,WELL,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,WFC,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,WM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,WMB,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,WMT,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,WRB,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,WSM,KMeans_RiskReturn,Risk and return,K-Means,5,3
+run_20261118_055638,WST,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,WTW,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,WY,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,WYNN,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,XEL,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,XOM,KMeans_RiskReturn,Risk and return,K-Means,5,1
+run_20261118_055638,XYL,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,XYZ,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,YUM,KMeans_RiskReturn,Risk and return,K-Means,5,4
+run_20261118_055638,ZBH,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,ZBRA,KMeans_RiskReturn,Risk and return,K-Means,5,5
+run_20261118_055638,ZTS,KMeans_RiskReturn,Risk and return,K-Means,5,2
+run_20261118_055638,A,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AAPL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ABBV,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ABNB,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ABT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ACGL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ACN,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ADBE,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ADI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ADM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ADP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ADSK,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AEE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AEP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AES,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,AFL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AIG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AIZ,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AJG,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,AKAM,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,ALB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ALGN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ALL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,ALLE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AMAT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AMCR,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,AMD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AME,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AMGN,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AMP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AMT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AMZN,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ANET,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,AON,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AOS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,APA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,APD,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,APH,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,APO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,APTV,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ARE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ARES,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ATO,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AVGO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AVY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AWK,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,AXON,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AXP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,AZO,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,BA,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BAC,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BALL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BAX,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BBY,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,BDX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,BE,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,BEN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BF-B,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BIIB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BKNG,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BKR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BLK,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BMY,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BNY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BRK-B,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BRO,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,BSX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,BXP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,C,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CAH,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CARR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CASY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CAT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CB,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CBOE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CBRE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CCI,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CCL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CDNS,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CDW,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CF,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CFG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CHD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CHRW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CHTR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CI,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,CIEN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CINF,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CLX,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CMCSA,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CME,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CMG,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CMI,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CMS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CNC,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,CNP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,COF,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,COHR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,COO,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,COP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,COR,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,COST,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CPAY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CPRT,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,CPT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CRH,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CRL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CRM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CRWD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CSCO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CSGP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CSX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CTAS,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,CTSH,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,CVNA,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,CVS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,CVX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,D,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DAL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DASH,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DDOG,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DE,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DECK,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DELL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DG,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DGX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DHI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DHR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DIS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,DLR,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,DLTR,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DOC,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,DOV,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DOW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DPZ,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DRI,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DTE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DUK,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,DVA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DVN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,DXCM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EBAY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ECHO,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ECL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ED,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EFX,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,EG,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,EIX,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,ELV,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,EME,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EMR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EOG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EQIX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,EQT,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,ERIE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ES,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ESS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ETN,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ETR,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,EVRG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EW,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,EXC,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EXPD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EXPE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,EXR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,F,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,FANG,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,FAST,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FCX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,FDS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FDX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,FE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FFIV,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FICO,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,FIS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FISV,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,FITB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FIX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,FLEX,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,FOX,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FOXA,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,FRT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,FSLR,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,FTNT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,FTV,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,GD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,GDDY,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,GE,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,GEN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,GILD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,GIS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,GL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,GLW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,GM,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,GNRC,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,GOOG,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,GOOGL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,GPC,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,GPN,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,GRMN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,GS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,GWW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HAL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,HAS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HBAN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HCA,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,HD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,HIG,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,HII,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HLT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,HON,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,HPE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HPQ,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,HRL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,HSIC,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,HST,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HSY,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,HUBB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,HUM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,HWM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,IBKR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,IBM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ICE,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,IDXX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,IEX,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,IFF,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ILMN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,INCY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,INTC,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,INTU,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,INVH,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,IP,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,IQV,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,IR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,IRM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ISRG,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,IT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ITW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,IVZ,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,J,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,JBHT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,JBL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,JCI,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,JKHY,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,JNJ,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,JPM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,KDP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,KEY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,KEYS,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,KHC,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,KIM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,KKR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,KLAC,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,KMB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,KMI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,KO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,KR,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,L,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,LDOS,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,LEN,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,LH,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,LHX,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,LII,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,LIN,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,LITE,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,LLY,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,LMT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,LNT,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,LOW,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,LRCX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,LULU,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,LUV,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,LVS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,LYB,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,LYV,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,MA,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MAA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MAR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MAS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MCD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MCHP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MCK,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MCO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MDLZ,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MDT,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,MET,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,META,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MGM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MKC,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,MLM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MMM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MNST,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MOS,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,MPC,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MPWR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MRK,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MRNA,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,MRSH,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MRVL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MSCI,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,MSFT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MSI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,MTB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MTD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,MU,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,NCLH,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NDAQ,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NDSN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NEE,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,NEM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,NFLX,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,NI,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NKE,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,NOC,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,NOW,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,NRG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NSC,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NTAP,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,NTRS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NUE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NVDA,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,NVR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NWS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NWSA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,NXPI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,O,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ODFL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,OKE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,OKTA,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,OMC,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,ON,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ORCL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,ORLY,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,OTIS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,OXY,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,P,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,PANW,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PAYX,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,PCAR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PCG,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,PEG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PEP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PFE,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PFG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PG,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PGR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PH,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PHM,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,PKG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PLD,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PLTR,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PNC,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,PNR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PNW,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,PODD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PPG,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,PPL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PRU,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PSA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PSX,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PTC,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PWR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,PYPL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,QCOM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,RCL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,REG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,REGN,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,RF,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,RJF,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,RL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,RMD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ROK,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ROL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ROP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ROST,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,RSG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,RTX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,RVTY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SBAC,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SBUX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,SCHW,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,SHW,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,SJM,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,SKYD,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,SLB,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,SMCI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,SNA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SNPS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,SO,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,SPG,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SPGI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,SRE,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,STE,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,STLD,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,STT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,STX,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,STZ,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SWK,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SWKS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SYF,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,SYK,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,SYY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,T,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,TDG,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,TDY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TECH,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TEL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TER,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TFC,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,TGT,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,TJX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,TKO,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,TMO,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,TMUS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,TPL,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,TPR,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,TRGP,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TRMB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TROW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TRV,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,TSCO,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TSLA,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,TSN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,TTWO,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TWLO,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TXN,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,TXT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,TYL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,UAL,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,UBER,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,UDR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,UHS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ULTA,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,UNH,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,UNP,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,UPS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,URI,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,USB,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,V,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,VEEV,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,VICI,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VLO,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,VMC,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VMRK,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VRSK,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VRSN,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VRT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,VRTX,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,VST,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,VTR,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VTRS,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,VZ,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,WAB,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,WAT,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WDAY,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,WDC,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,WEC,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,WELL,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WFC,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,WM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WMB,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,WMT,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,WRB,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WSM,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WST,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,WTW,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WY,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,WYNN,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,XEL,Ward_Activity,Trading activity,Ward,4,4
+run_20261118_055638,XOM,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,XYL,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,XYZ,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,YUM,Ward_Activity,Trading activity,Ward,4,3
+run_20261118_055638,ZBH,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ZBRA,Ward_Activity,Trading activity,Ward,4,1
+run_20261118_055638,ZTS,Ward_Activity,Trading activity,Ward,4,2
+run_20261118_055638,A,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AAPL,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ABBV,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ABNB,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ABT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ACGL,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ACN,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ADBE,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ADI,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,ADM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ADP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ADSK,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AEE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AEP,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AES,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,AFL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AIG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AIZ,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AJG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AKAM,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,ALB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ALGN,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ALL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ALLE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AMAT,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,AMCR,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AMD,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,AME,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AMGN,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,AMP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AMT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AMZN,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ANET,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,AON,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AOS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,APA,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,APD,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,APH,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,APO,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,APTV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ARE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ARES,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ATO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AVGO,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,AVY,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AWK,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,AXON,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,AXP,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,AZO,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,BA,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,BAC,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,BALL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BAX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BBY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BDX,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,BE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,BEN,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,BF-B,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BIIB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BKNG,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,BKR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BLK,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,BMY,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,BNY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BRK-B,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,BRO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BSX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,BX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,BXP,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,C,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CAH,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CARR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CASY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CAT,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CB,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,CBOE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CBRE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CCI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CCL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CDNS,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,CDW,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,CF,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CFG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CHD,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CHRW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CHTR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CIEN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CINF,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CLX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CMCSA,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CME,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CMG,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,CMI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CMS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CNC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CNP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,COF,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,COHR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,COO,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,COP,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,COR,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,COST,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CPAY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CPRT,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CPT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CRH,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,CRL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CRM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CRWD,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CSCO,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CSGP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CSX,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,CTAS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CTSH,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,CVNA,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,CVS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,CVX,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,D,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,DAL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DASH,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DDOG,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,DE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DECK,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DELL,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,DG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DGX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DHI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DHR,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,DIS,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,DLR,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DLTR,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,DOC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DOV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DOW,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DPZ,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,DRI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DTE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,DUK,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,DVA,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DVN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,DXCM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EBAY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ECHO,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ECL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ED,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,EFX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,EG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,EIX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EL,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,ELV,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,EME,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EMR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EOG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EQIX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,EQT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ERIE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ES,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ESS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ETN,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ETR,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,EVRG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EXC,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EXPD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,EXPE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,EXR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,F,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,FANG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FAST,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FCX,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,FDS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,FDX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FFIV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FICO,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,FIS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,FISV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FITB,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,FIX,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,FLEX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,FOX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,FOXA,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,FRT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FSLR,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,FTNT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,FTV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GDDY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GE,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,GEN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GILD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GIS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GLW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,GNRC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,GOOG,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,GOOGL,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,GPC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,GPN,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,GRMN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,GS,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,GWW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HAL,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,HAS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HBAN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HCA,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,HD,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,HIG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,HII,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,HLT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HON,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,HPE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HPQ,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HRL,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,HSIC,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HST,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HSY,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,HUBB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,HUM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,HWM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,IBKR,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,IBM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ICE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,IDXX,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,IEX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,IFF,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ILMN,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,INCY,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,INTC,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,INTU,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,INVH,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,IP,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,IQV,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,IR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,IRM,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ISRG,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,IT,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ITW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,IVZ,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,J,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,JBHT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,JBL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,JCI,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,JKHY,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,JNJ,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,JPM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,KDP,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,KEY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,KEYS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,KHC,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,KIM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,KKR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,KLAC,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,KMB,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,KMI,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,KO,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,KR,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,L,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,LDOS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,LEN,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,LH,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,LHX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,LII,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,LIN,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,LITE,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,LLY,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,LMT,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,LNT,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,LOW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,LRCX,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,LULU,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,LUV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,LVS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,LYB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,LYV,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,MA,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MAA,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MAR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MAS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MCD,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MCHP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MCK,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MCO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MDLZ,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MDT,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,MET,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,META,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MGM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MKC,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,MLM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MMM,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MNST,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MOS,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,MPC,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MPWR,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MRK,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MRNA,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MRSH,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MRVL,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MS,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MSCI,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,MSFT,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,MSI,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,MTB,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MTD,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,MU,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,NCLH,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NDAQ,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NDSN,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,NEE,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,NEM,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NFLX,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,NI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,NKE,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,NOC,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NOW,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,NRG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NSC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,NTAP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NTRS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NUE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NVDA,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,NVR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NWS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NWSA,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,NXPI,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,O,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ODFL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,OKE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,OKTA,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,OMC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ON,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ORCL,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,ORLY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,OTIS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,OXY,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,P,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PANW,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,PAYX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PCAR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PCG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PEG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PEP,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,PFE,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,PFG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PG,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,PGR,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,PH,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PHM,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PKG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PLD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PLTR,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,PM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,PNC,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PNR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PNW,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,PODD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PPG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PPL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PRU,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PSA,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PSX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PTC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,PWR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,PYPL,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,QCOM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,RCL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,REG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,REGN,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,RF,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,RJF,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,RL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,RMD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ROK,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ROL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ROP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ROST,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,RSG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,RTX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,RVTY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SBAC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,SBUX,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,SCHW,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,SHW,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,SJM,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,SKYD,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,SLB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SMCI,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,SNA,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,SNPS,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,SO,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,SPG,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SPGI,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SRE,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,STE,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,STLD,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,STT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,STX,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,STZ,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SWK,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SWKS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,SYF,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,SYK,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,SYY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,T,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,TDG,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,TDY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TECH,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,TEL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TER,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TFC,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,TGT,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,TJX,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TKO,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,TMO,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,TMUS,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,TPL,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,TPR,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,TRGP,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TRMB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TROW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TRV,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TSCO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TSLA,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,TSN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TTWO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TWLO,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,TXN,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,TXT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,TYL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,UAL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,UBER,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,UDR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,UHS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ULTA,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,UNH,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,UNP,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,UPS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,URI,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,USB,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,V,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,VEEV,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,VICI,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,VLO,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,VMC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,VMRK,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,VRSK,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,VRSN,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,VRT,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,VRTX,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,VST,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,VTR,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,VTRS,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,VZ,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,WAB,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,WAT,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,WDAY,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,WDC,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,WEC,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,WELL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,WFC,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,WM,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,WMB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,WMT,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,WRB,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,WSM,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,WST,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,WTW,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,WY,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,WYNN,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,XEL,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,XOM,KMeans_Activity,Trading activity,K-Means,4,4
+run_20261118_055638,XYL,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,XYZ,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,YUM,KMeans_Activity,Trading activity,K-Means,4,3
+run_20261118_055638,ZBH,KMeans_Activity,Trading activity,K-Means,4,1
+run_20261118_055638,ZBRA,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,ZTS,KMeans_Activity,Trading activity,K-Means,4,2
+run_20261118_055638,A,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,AAPL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ABBV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ABNB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ABT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ACGL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ACN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ADBE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ADI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,ADM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ADP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ADSK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AEE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AEP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AES,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,AFL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,AIG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AIZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AJG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AKAM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,ALB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ALGN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ALL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,ALLE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,AMAT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AMCR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AMD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AME,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AMGN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AMP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,AMT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AMZN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ANET,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,AON,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AOS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,APA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,APD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,APH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,APO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,APTV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ARE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ARES,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ATO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,AVGO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AVY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AWK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AXON,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AXP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,AZO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,BA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BAC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BALL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BAX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BBY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,BDX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,BE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BEN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BF-B,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BIIB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BKNG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BKR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BLK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BMY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BNY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BRK-B,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BRO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BSX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,BX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,BXP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,C,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CAH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CARR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CASY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CAT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,CB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,CBOE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CBRE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CCI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CCL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,CDNS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CDW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CFG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CHD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CHRW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CHTR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CIEN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CINF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,CLX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CMCSA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CME,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CMG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CMI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CMS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CNC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CNP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,COF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,COHR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,COO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,COP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,COR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,COST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,CPAY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CPRT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CPT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CRH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CRL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,CRM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CRWD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CSCO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CSGP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CSX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CTAS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CTSH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CVNA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,CVS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,CVX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,D,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DAL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,DASH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DDOG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DECK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DELL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DGX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DHI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DHR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DIS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DLR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DLTR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DOC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DOV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DOW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DPZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,DRI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DTE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DUK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,DVA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DVN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,DXCM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EBAY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ECHO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ECL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ED,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EFX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,EG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EIX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,EL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,ELV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,EME,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EMR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EOG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EQIX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EQT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,ERIE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ES,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ESS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ETN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ETR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,EVRG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,EW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,EXC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,EXPD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EXPE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,EXR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,F,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,FANG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,FAST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FCX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,FDS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FDX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FFIV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FICO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,FIS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FISV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,FITB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FIX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,FLEX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FOX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FOXA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FRT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,FSLR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,FTNT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,FTV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,GD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,GDDY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,GE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,GEN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,GILD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,GIS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,GL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GLW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,GNRC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GOOG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GOOGL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GPC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GPN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,GRMN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,GWW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HAL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,HAS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,HBAN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HCA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,HD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,HIG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HII,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HLT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,HON,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HPE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HPQ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,HRL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,HSIC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,HST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HSY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HUBB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,HUM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,HWM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,IBKR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,IBM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ICE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,IDXX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,IEX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,IFF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ILMN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,INCY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,INTC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,INTU,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,INVH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,IP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,IQV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,IR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,IRM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ISRG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,IT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ITW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,IVZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,J,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,JBHT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,JBL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,JCI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,JKHY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,JNJ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,JPM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,KDP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,KEY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,KEYS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,KHC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,KIM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,KKR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,KLAC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,KMB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,KMI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,KO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,KR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,L,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,LDOS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LEN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LHX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LII,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LIN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,LITE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,LLY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LMT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LNT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,LOW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,LRCX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,LULU,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,LUV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,LVS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,LYB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,LYV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,MA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MAA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MAR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MAS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MCD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MCHP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MCK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MCO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MDLZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MDT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,MET,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,META,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MGM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MKC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,MLM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MMM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MNST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MOS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,MPC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MPWR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MRK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MRNA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MRSH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,MRVL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MSCI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,MSFT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MSI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,MTB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MTD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,MU,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NCLH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NDAQ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,NDSN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NEE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NEM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NFLX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,NI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NKE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,NOC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,NOW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,NRG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NSC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NTAP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,NTRS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NUE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NVDA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,NVR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,NWS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,NWSA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,NXPI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,O,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ODFL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,OKE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,OKTA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,OMC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ON,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ORCL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ORLY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,OTIS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,OXY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,P,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PANW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PAYX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PCAR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PCG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PEG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PEP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PFE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PFG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PGR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,PH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PHM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PKG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PLD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PLTR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PNC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PNR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PNW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,PODD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PPG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PPL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PRU,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PSA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PSX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,PTC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PWR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,PYPL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,QCOM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,RCL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,REG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,REGN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,RF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,RJF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,RL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,RMD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ROK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ROL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ROP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ROST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,RSG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,RTX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,RVTY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SBAC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SBUX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SCHW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,SHW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,SJM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,SKYD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,SLB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,SMCI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SNA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SNPS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,SPG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,SPGI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,SRE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,STE,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,STLD,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,STT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,STX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,STZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SWK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SWKS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SYF,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,SYK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,SYY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,T,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TDG,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TDY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TECH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TEL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,TER,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,TFC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,TGT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,TJX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,TKO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TMO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,TMUS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TPL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TPR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TRGP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,TRMB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,TROW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TRV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,TSCO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TSLA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TSN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,TT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TTWO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TWLO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TXN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,TXT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,TYL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,UAL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,UBER,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,UDR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,UHS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ULTA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,UNH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,UNP,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,UPS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,URI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,USB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,V,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,VEEV,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,VICI,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,VLO,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,VMC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,VMRK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,VRSK,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,VRSN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,VRT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,VRTX,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,VST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,VTR,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,VTRS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,VZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,WAB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WAT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WDAY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WDC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WEC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,4
+run_20261118_055638,WELL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WFC,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WMB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,WMT,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WRB,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,WSM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WST,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WTW,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,WY,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,WYNN,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,XEL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,XOM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,XYL,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,XYZ,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,YUM,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,3
+run_20261118_055638,ZBH,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,1
+run_20261118_055638,ZBRA,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
+run_20261118_055638,ZTS,Ward_Activity_RF_only,Trading activity without Monetary,Ward,4,2
