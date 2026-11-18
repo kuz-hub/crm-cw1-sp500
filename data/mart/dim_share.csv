@@ -1,4 +1,4 @@
-Share_key,Security,GICS_sector,GICS_sub_industry,Inclusion_status,Inclusion_reason,Sessions_available
+Share_key,Security,GICS_sector,GICS_sub_industry,Inclusion_status,Inclusion_reason,Days_available
 MMM,3M,Industrials,Industrial Conglomerates,Included,Passed all validation rules,1005
 AOS,A. O. Smith,Industrials,Building Products,Included,Passed all validation rules,1005
 ABT,Abbott Laboratories,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
@@ -39,7 +39,7 @@ APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Included,Passed al
 APO,Apollo Global Management,Financials,Asset Management & Custody Banks,Included,Passed all validation rules,1005
 AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
 AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Included,Passed all validation rules,1005
-APP,AppLovin,Communication Services,Advertising,Excluded,"Incomplete history (935 of 1005 sessions, first valid 2021-04-15)",935
+APP,AppLovin,Communication Services,Advertising,Excluded,Incomplete history (935 of 1005 days),935
 APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,Included,Passed all validation rules,1005
 ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Included,Passed all validation rules,1005
 ADM,Archer Daniels Midland,Consumer Staples,Agricultural Products & Services,Included,Passed all validation rules,1005
@@ -115,14 +115,14 @@ CMS,CMS Energy,Utilities,Multi-Utilities,Included,Passed all validation rules,10
 KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Included,Passed all validation rules,1005
 CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Included,Passed all validation rules,1005
 COHR,Coherent Corp.,Information Technology,Electronic Components,Included,Passed all validation rules,1005
-COIN,Coinbase,Financials,Financial Exchanges & Data,Excluded,"Incomplete history (936 of 1005 sessions, first valid 2021-04-14)",936
+COIN,Coinbase,Financials,Financial Exchanges & Data,Excluded,Incomplete history (936 of 1005 days),936
 CL,Colgate-Palmolive,Consumer Staples,Household Products,Included,Passed all validation rules,1005
 CMCSA,Comcast,Communication Services,Cable & Satellite,Included,Passed all validation rules,1005
 FIX,Comfort Systems USA,Industrials,Construction & Engineering,Included,Passed all validation rules,1005
 COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Included,Passed all validation rules,1005
 ED,Consolidated Edison,Utilities,Multi-Utilities,Included,Passed all validation rules,1005
 STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Included,Passed all validation rules,1005
-CEG,Constellation Energy,Utilities,Electric Utilities,Excluded,"Incomplete history (742 of 1005 sessions, first valid 2022-01-19)",742
+CEG,Constellation Energy,Utilities,Electric Utilities,Excluded,Incomplete history (742 of 1005 days),742
 COO,Cooper Companies (The),Health Care,Health Care Supplies,Included,Passed all validation rules,1005
 CPRT,Copart,Industrials,Diversified Support Services,Included,Passed all validation rules,1005
 GLW,Corning Inc.,Information Technology,Electronic Components,Included,Passed all validation rules,1005
@@ -180,7 +180,7 @@ EVRG,Evergy,Utilities,Electric Utilities,Included,Passed all validation rules,10
 P,Everpure,Information Technology,"Technology Hardware, Storage & Peripherals",Included,Passed all validation rules,1005
 ES,Eversource Energy,Utilities,Electric Utilities,Included,Passed all validation rules,1005
 EXC,Exelon,Utilities,Electric Utilities,Included,Passed all validation rules,1005
-EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,Excluded,"Incomplete history (979 of 1005 sessions, first valid 2021-02-10)",979
+EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,Excluded,Incomplete history (979 of 1005 days),979
 EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Included,Passed all validation rules,1005
 EXPD,Expeditors International,Industrials,Air Freight & Logistics,Included,Passed all validation rules,1005
 EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Included,Passed all validation rules,1005
@@ -192,7 +192,7 @@ FAST,Fastenal,Industrials,Trading Companies & Distributors,Included,Passed all v
 FRT,Federal Realty Investment Trust,Real Estate,Retail REITs,Included,Passed all validation rules,1005
 FDX,FedEx,Industrials,Air Freight & Logistics,Included,Passed all validation rules,1005
 FDXF,FedEx Freight,Industrials,Cargo Ground Transportation,Excluded,No price data in the study period,0
-FERG,Ferguson Enterprises,Industrials,Trading Companies & Distributors,Excluded,Zero-volume session(s) (27) — volume-based RFM not reliable,1005
+FERG,Ferguson Enterprises,Industrials,Trading Companies & Distributors,Excluded,Zero-volume days (27),1005
 FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Included,Passed all validation rules,1005
 FITB,Fifth Third Bancorp,Financials,Regional Banks,Included,Passed all validation rules,1005
 FSLR,First Solar,Information Technology,Semiconductors,Included,Passed all validation rules,1005
@@ -209,8 +209,8 @@ FCX,Freeport-McMoRan,Materials,Copper,Included,Passed all validation rules,1005
 GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Included,Passed all validation rules,1005
 IT,Gartner,Information Technology,IT Consulting & Other Services,Included,Passed all validation rules,1005
 GE,GE Aerospace,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
-GEHC,GE HealthCare,Health Care,Health Care Equipment,Excluded,"Incomplete history (513 of 1005 sessions, first valid 2022-12-15)",513
-GEV,GE Vernova,Industrials,Heavy Electrical Equipment,Excluded,"Incomplete history (193 of 1005 sessions, first valid 2024-03-27)",193
+GEHC,GE HealthCare,Health Care,Health Care Equipment,Excluded,Incomplete history (513 of 1005 days),513
+GEV,GE Vernova,Industrials,Heavy Electrical Equipment,Excluded,Incomplete history (193 of 1005 days),193
 GEN,Gen Digital,Information Technology,Systems Software,Included,Passed all validation rules,1005
 GNRC,Generac,Industrials,Heavy Electrical Equipment,Included,Passed all validation rules,1005
 GD,General Dynamics,Industrials,Aerospace & Defense,Included,Passed all validation rules,1005
@@ -384,7 +384,7 @@ PWR,Quanta Services,Industrials,Construction & Engineering,Included,Passed all v
 DGX,Quest Diagnostics,Health Care,Health Care Services,Included,Passed all validation rules,1005
 RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Included,Passed all validation rules,1005
 RJF,Raymond James Financial,Financials,Investment Banking & Brokerage,Included,Passed all validation rules,1005
-RDDT,Reddit,Communication Services,Interactive Media & Services,Excluded,"Incomplete history (197 of 1005 sessions, first valid 2024-03-21)",197
+RDDT,Reddit,Communication Services,Interactive Media & Services,Excluded,Incomplete history (197 of 1005 days),197
 O,Realty Income,Real Estate,Retail REITs,Included,Passed all validation rules,1005
 REG,Regency Centers,Real Estate,Retail REITs,Included,Passed all validation rules,1005
 REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,Included,Passed all validation rules,1005
@@ -392,7 +392,7 @@ RF,Regions Financial Corporation,Financials,Regional Banks,Included,Passed all v
 RSG,Republic Services,Industrials,Environmental & Facilities Services,Included,Passed all validation rules,1005
 RMD,ResMed,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
 RVTY,Revvity,Health Care,Health Care Equipment,Included,Passed all validation rules,1005
-HOOD,Robinhood Markets,Financials,Investment Banking & Brokerage,Excluded,"Incomplete history (862 of 1005 sessions, first valid 2021-07-29)",862
+HOOD,Robinhood Markets,Financials,Investment Banking & Brokerage,Excluded,Incomplete history (862 of 1005 days),862
 ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Included,Passed all validation rules,1005
 ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Included,Passed all validation rules,1005
 ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Included,Passed all validation rules,1005
@@ -412,9 +412,9 @@ SPG,Simon Property Group,Real Estate,Retail REITs,Included,Passed all validation
 SKYD,Skydance,Communication Services,Movies & Entertainment,Included,Passed all validation rules,1005
 SWKS,Skyworks Solutions,Information Technology,Semiconductors,Included,Passed all validation rules,1005
 SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Included,Passed all validation rules,1005
-SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,Excluded,Zero-volume session(s) (424) — volume-based RFM not reliable,1005
+SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,Excluded,Zero-volume days (424),1005
 SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
-SOLV,Solventum,Health Care,Health Care Technology,Excluded,"Incomplete history (194 of 1005 sessions, first valid 2024-03-26)",194
+SOLV,Solventum,Health Care,Health Care Technology,Excluded,Incomplete history (194 of 1005 days),194
 SO,Southern Company,Utilities,Electric Utilities,Included,Passed all validation rules,1005
 LUV,Southwest Airlines,Industrials,Passenger Airlines,Included,Passed all validation rules,1005
 SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Included,Passed all validation rules,1005
@@ -465,7 +465,7 @@ UHS,Universal Health Services,Health Care,Health Care Facilities,Included,Passed
 VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Included,Passed all validation rules,1005
 VEEV,Veeva Systems,Health Care,Health Care Technology,Included,Passed all validation rules,1005
 VTR,Ventas,Real Estate,Health Care REITs,Included,Passed all validation rules,1005
-VLTO,Veralto,Industrials,Environmental & Facilities Services,Excluded,"Incomplete history (313 of 1005 sessions, first valid 2023-10-04)",313
+VLTO,Veralto,Industrials,Environmental & Facilities Services,Excluded,Incomplete history (313 of 1005 days),313
 VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Included,Passed all validation rules,1005
 VRSK,Verisk Analytics,Industrials,Research & Consulting Services,Included,Passed all validation rules,1005
 VZ,Verizon,Communication Services,Integrated Telecommunication Services,Included,Passed all validation rules,1005

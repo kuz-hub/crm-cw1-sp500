@@ -6,6 +6,14 @@ Everything in this repository is produced by one notebook, **`CRM_CW1.ipynb`**
 ([open in Colab](https://colab.research.google.com/github/kuz-hub/crm-cw1-sp500/blob/main/CRM_CW1.ipynb)).
 `Runtime > Run all` reproduces every table, figure and data file below.
 
+The code follows the Week 2 to Week 6 seminar material. The ticker download, the
+transposed completeness check, `calculate_weekly_returns` and `calculate_weekly_beta`
+come from the Week 4 and Week 5 tutorials, and the volume-based RFM loop and the Ward
+clustering follow the Week 3 tutorial. Two places deliberately differ from the tutorial
+code, because the coursework brief requires it: missing prices are **not** forward or
+backward filled (incomplete shares are excluded instead), and the incomplete first and
+last calendar weeks are dropped before the weekly returns are taken.
+
 ## What this project does
 
 S&P 500 shares are segmented in **two separate ways** and the two segmentations are compared:
@@ -43,7 +51,7 @@ All of these values are written to `data/processed/report_headline_numbers.csv` 
 | `data/raw/` | Unedited snapshots: ticker list, `adj_close_daily.csv`, `close_daily.csv`, `volume_daily.csv` |
 | `data/processed/` | Inclusion and exclusion log, acquisition log, feature table, cluster assignments, cluster and sector profiles, correlation table, headline numbers |
 | `data/mart/` | The Task 3 data mart, materialised as a star schema (4 dimensions, 4 fact tables) |
-| `outputs/` | Figures: feature distributions, dendrograms, k-selection, cluster plots, sector composition, RFM correlations, Monetary-removal sensitivity, star schema diagram |
+| `outputs/` | Figures: feature distributions, dendrograms, k-selection, cluster plots, sector composition, RFM correlations, Monetary-removal sensitivity |
 
 ### Task 3 data mart (`data/mart/`)
 
