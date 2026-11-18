@@ -1,18 +1,18 @@
-Ticker,Reason,Action
-APP,"Incomplete history (935 of 1005 sessions, first valid date 2021-04-15)",Excluded
-CEG,"Incomplete history (742 of 1005 sessions, first valid date 2022-01-19)",Excluded
-COIN,"Incomplete history (936 of 1005 sessions, first valid date 2021-04-14)",Excluded
-EXE,"Incomplete history (979 of 1005 sessions, first valid date 2021-02-10)",Excluded
-FDXF,No price data for study period,Excluded
-FERG,Zero-volume days (27),Excluded
-GEHC,"Incomplete history (513 of 1005 sessions, first valid date 2022-12-15)",Excluded
-GEV,"Incomplete history (193 of 1005 sessions, first valid date 2024-03-27)",Excluded
-HONA,No price data for study period,Excluded
-HOOD,"Incomplete history (862 of 1005 sessions, first valid date 2021-07-29)",Excluded
-Q,No price data for study period,Excluded
-RDDT,"Incomplete history (197 of 1005 sessions, first valid date 2024-03-21)",Excluded
-SNDK,No price data for study period,Excluded
-SOLV,"Incomplete history (194 of 1005 sessions, first valid date 2024-03-26)",Excluded
-SW,Zero-volume days (424),Excluded
-VLTO,"Incomplete history (313 of 1005 sessions, first valid date 2023-10-04)",Excluded
-VYLR,No price data for study period,Excluded
+Ticker,Action,Reason,Sessions,Zero_volume_days
+APP,Excluded,"Incomplete history (935 of 1005 sessions, first valid 2021-04-15)",935,0
+CEG,Excluded,"Incomplete history (742 of 1005 sessions, first valid 2022-01-19)",742,0
+COIN,Excluded,"Incomplete history (936 of 1005 sessions, first valid 2021-04-14)",936,0
+EXE,Excluded,"Incomplete history (979 of 1005 sessions, first valid 2021-02-10)",979,0
+FDXF,Excluded,No price data in the study period,0,0
+FERG,Excluded,Zero-volume session(s) (27) — volume-based RFM not reliable,1005,27
+GEHC,Excluded,"Incomplete history (513 of 1005 sessions, first valid 2022-12-15)",513,0
+GEV,Excluded,"Incomplete history (193 of 1005 sessions, first valid 2024-03-27)",193,0
+HONA,Excluded,No price data in the study period,0,0
+HOOD,Excluded,"Incomplete history (862 of 1005 sessions, first valid 2021-07-29)",862,0
+Q,Excluded,No price data in the study period,0,0
+RDDT,Excluded,"Incomplete history (197 of 1005 sessions, first valid 2024-03-21)",197,0
+SNDK,Excluded,No price data in the study period,0,0
+SOLV,Excluded,"Incomplete history (194 of 1005 sessions, first valid 2024-03-26)",194,0
+SW,Excluded,Zero-volume session(s) (424) — volume-based RFM not reliable,1005,424
+VLTO,Excluded,"Incomplete history (313 of 1005 sessions, first valid 2023-10-04)",313,0
+VYLR,Excluded,No price data in the study period,0,0

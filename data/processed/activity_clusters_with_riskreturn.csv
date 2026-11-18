@@ -1,0 +1,5 @@
+KMeans_Activity,Shares,Mean_recency_days,Mean_frequency_days,Median_traded_value_USD_bn,Mean_weekly_return,Beta
+1,212,13.2642,2.3679,13.3364,0.0027,0.939
+2,122,13.9426,4.5492,12.8259,0.0026,0.966
+3,61,66.0164,1.6721,21.2421,0.003,0.9752
+4,91,15.1429,3.2308,60.1834,0.0034,1.0637
