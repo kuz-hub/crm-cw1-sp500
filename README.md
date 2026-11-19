@@ -48,7 +48,7 @@ Monetary removed.
 | `CRM_CW1.ipynb` | The whole analysis: Task 1, Task 2 and the Task 3 evidence |
 | `data/raw/` | Unedited snapshots: ticker list, `adj_close_daily.csv`, `close_daily.csv`, `volume_daily.csv` |
 | `data/processed/` | Inclusion and exclusion log, feature table, cluster assignments, cluster and sector profiles, correlation table |
-| `data/mart/` | The Task 3 data mart: 3 dimension tables and 3 fact tables |
+| `data/mart/` | The Task 3 data mart: 4 dimension tables and 4 fact tables |
 | `outputs/` | Figures: feature distributions, dendrograms, k-selection, cluster plots, RFM correlations, sector mix of each clustering solution |
 
 ### Task 3 data mart (`data/mart/`)
@@ -57,7 +57,9 @@ Monetary removed.
 |---|---|
 | `dim_date` | one row per trading date |
 | `dim_share` | one row per ticker, with sector and inclusion status |
+| `dim_benchmark` | one row per benchmark series, with source and price basis |
 | `dim_calculation_run` | one row per run: provenance, windows, threshold, seed, package versions |
+| `fact_daily_market` | share × trading day (the 60-session RFM window) |
 | `fact_weekly_return` | share × Friday week-ending date, with the aligned benchmark return |
 | `fact_share_features` | share × run — the five derived features |
 | `fact_cluster_assignment` | share × clustering solution × run |
